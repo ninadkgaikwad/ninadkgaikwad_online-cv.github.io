@@ -7,9 +7,21 @@
     </li>
     {% endif %}
 
+    {% if sidebar.address %}
+    <li class="address"><i class="far fa-address-card"></i>
+      <a href="">{{ sidebar.address }}</a>
+    </li>
+    {% endif %}
+
     {% if sidebar.phone %}
     <li class="phone"><i class="fas fa-phone"></i>
       <a href="tel:{{ sidebar.phone }}">{{ sidebar.phone }}</a>
+    </li>
+    {% endif %}  
+
+    {% if sidebar.timezone %}
+    <li class="timezone"><i class="fas fa-clock"></i>
+      <a href="">{{ sidebar.timezone }}</a>
     </li>
     {% endif %}
 
@@ -17,13 +29,7 @@
     <li class="phone"><i class="fas fa-passport"></i>
       <a href="">{{ sidebar.citizenship }}</a>
     </li>
-    {% endif %}
-
-    {% if sidebar.timezone %}
-    <li class="timezone"><i class="fas fa-clock"></i>
-      <a href="">{{ sidebar.timezone }}</a>
-    </li>
-    {% endif %}
+    {% endif %}    
 
     {% if sidebar.telegram %}
     <li class="telegram"><i class="fab fa-telegram"></i>
@@ -52,6 +58,30 @@
     {% if sidebar.github %}
     <li class="github"><i class="fab fa-github"></i>
       <a href="http://github.com/{{ sidebar.github }}" target="_blank">{{ sidebar.github }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.googlescholar %}
+    <li class="googlescholar"><i class="fab fa-researchgate"></i>
+      <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH70aAU0UC_wSKt4dB4Wxd05GcDd7xhQx8CHH1toTLKJ7849fCa30GlIJZlnkvRr9Gj8YU_-INgJ4JnIa3fEGQ&user=vs7Oqv8AAAAJ" target="_blank">{{ sidebar.googlescholar }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.researchgate %}
+    <li class="researchgate"><i class="fab fa-researchgate"></i>
+      <a href="https://www.researchgate.net/profile/{{ sidebar.researchgate }}" target="_blank">{{ sidebar.researchgate }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.orcid %}
+    <li class="orcid"><i class="fab fa-orcid"></i>
+      <a href="https://orcid.org/{{ sidebar.orcid }}" target="_blank">{{ sidebar.orcid }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.youtube %}
+    <li class="youtube"><i class="fab fa-youtube"></i>
+      <a href="https://www.youtube.com/channel/UCHvoRs1jMRUj7ysOk7XQc_A" target="_blank">{{ sidebar.youtube }}</a>
     </li>
     {% endif %}
 
@@ -103,11 +133,7 @@
     </li>
     {% endif %}
 
-    {% if sidebar.researchgate %}
-    <li class="researchgate"><i class="fab fa-researchgate"></i>
-      <a href="https://www.researchgate.net/profile/{{ sidebar.researchgate }}" target="_blank">{{ sidebar.researchgate }}</a>
-    </li>
-    {% endif %}
+    
 
   </ul>
 </div><!--//contact-container-->
