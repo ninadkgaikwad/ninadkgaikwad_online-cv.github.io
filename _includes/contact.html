@@ -93,7 +93,13 @@
 
     {% if sidebar.pdf %}
     <li class="pdf"><i class="fas fa-file-pdf"></i>
-      <a href="{{ sidebar.pdf }}" target="_blank">Resume PDF</a>
+      <a href="{{ sidebar.pdf }}" target="_blank">CV PDF</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.pdf1 %}
+    <li class="pdf1"><i class="fas fa-file-pdf"></i>
+      <a href="{{ sidebar.pdf1 }}" target="_blank">Resume PDF</a>
     </li>
     {% endif %}
 
