@@ -10,21 +10,21 @@ sidebar:
     # Profile information
     name: Ninad Kiran Gaikwad
     tagline: PhD Candidate/Research Assistant
-    avatar: pNKG_Professional_Pic_Resized.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: NKG_Professional_Pic_Resized.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: ninad.gaikwad@wsu.edu
+    phone: +1 352 871 4669
     timezone: America/Cancun Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: ninadkgaikwad.github.io #do not add http://
+    linkedin: ninadkirangaikwad
+    xing: 
+    github: ninadkgaikwad
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@NinadKiran'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -33,14 +33,17 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Marathi
           level: Native
 
-        - idiom: French
+        - idiom: Hindi
+          level: Native
+
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: French
+          level: Basic
 
     interests:
       title: Interests
