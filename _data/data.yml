@@ -111,7 +111,7 @@ experiences:
             - Developed an open-source State Estimation toolbox based on Bayesian Filtering and Smoothing for Building Thermal Models.
             - Developed Parameter Estimation Algorithms based on Bayesian Inference for Building Thermal Models.
 
-        role: Tutor
+      - role: Tutor
         time: July 2022 - July 2022
         company: Bridge Program, College Access \& Transition Programs, WSU, Pullman
         link: https://provost.wsu.edu/oae/programs/
