@@ -338,7 +338,7 @@ certifications:
           end: Dec 2015
           organization: Prolific Systems & Technologies
           credentialid: 
-          credentialurl: https://www.prolifictraining.com/
+          credentialurl: www.prolifictraining.com/
           credentialname: Prolific
           details: |
             - Microcontroller (8051, ARM, Pic) Programming
@@ -349,7 +349,7 @@ certifications:
           end: June 2013
           organization: Prolific Systems & Technologies
           credentialid: 
-          credentialurl: https://www.prolifictraining.com/
+          credentialurl: www.prolifictraining.com/
           credentialname: Prolific
           details: |
             - Programmable Logic Controllers
