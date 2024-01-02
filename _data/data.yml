@@ -70,7 +70,7 @@ education:
         time: Jan 2022 - Present
         link: https://school.eecs.wsu.edu/
         details: |
-          Major areas of study: Power Systems Analysis, Power Systems Dynamics and Control, and Estimation Theory.
+          Major areas of study: Power Systems Analysis, Power Systems Dynamics and Control, and Estimation Theory.  <br>
           Current GPA 3.71/4 
           
       - degree: MS in Computer Science
@@ -78,7 +78,7 @@ education:
         time: Jan 2022 - Present
         link: https://school.eecs.wsu.edu/
         details: |
-          Major areas of study: Machine Learning, Data Science, and Algorithmics.
+          Major areas of study: Machine Learning, Data Science, and Algorithmics.  <br>
           Current GPA 3.71/4 
 
       - degree: MS in Mechanical Engineering 
@@ -86,7 +86,7 @@ education:
         time: Aug 2018 - Dec 2021
         link: https://mae.ufl.edu/
         details: |
-          Major areas of study: Control Theory, Probability, Optimization, Machine Learning, and Reinforcement Learning.
+          Major areas of study: Control Theory, Probability, Optimization, Machine Learning, and Reinforcement Learning.  <br>
           GPA 3.18/4 
 
       - degree: MTech in Electrical Engineering
@@ -94,7 +94,7 @@ education:
         time: Aug 2014 - June 2016
         link: https://www.spce.ac.in/electrical.php
         details: |
-          Major areas of study: Electrical Machine Analysis, Power Electronic Drives, Power System Dynamics and Control .
+          Major areas of study: Electrical Machine Analysis, Power Electronic Drives, Power System Dynamics and Control.  <br>
           CGPA 9.88/10 
 
       - degree: MProfEng in Electrical Engineering (One Semester)
@@ -102,7 +102,7 @@ education:
         time: Feb 2014 - June 2014
         link: https://www.uow.edu.au/engineering-information-sciences/schools-entities/secte/
         details: |
-          Major areas of study: Power Systems and Renewable Energy Technologies.
+          Major areas of study: Power Systems and Renewable Energy Technologies.  <br>
           Current High Distinction with 86.33%  
 
       - degree: BTech in Electrical Engineering
@@ -110,7 +110,7 @@ education:
         time: Aug 22008 - June 2012
         link: https://vjti.ac.in/academics/academic-programs/electrical-engineering-department/
         details: |
-          Major areas of study: Power Engineering and Control Systems.
+          Major areas of study: Power Engineering and Control Systems.  <br>
           CPI 5.8/10     
 
 experiences:
