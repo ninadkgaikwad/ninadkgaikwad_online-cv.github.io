@@ -103,7 +103,7 @@ education:
         link: https://www.uow.edu.au/engineering-information-sciences/schools-entities/secte/
         details: |
           Major areas of study: Power Systems and Renewable Energy Technologies.  <br>
-          Current High Distinction with 86.33%  
+          High Distinction with 86.33%  
 
       - degree: BTech in Electrical Engineering
         university: Veermata Jijabai Technological Institute (VJTI)
@@ -336,9 +336,9 @@ certifications:
         - name: Post Graduate Diploma in Embedded Systems
           start: Sept 2015
           end: Dec 2015
-          organization: Prolific Technologies
+          organization: Prolific Systems & Technologies
           credentialid: 
-          credentialurl: www.prolifictechnologies.com/
+          credentialurl: https://www.prolifictraining.com/
           credentialname: Prolific
           details: |
             - Microcontroller (8051, ARM, Pic) Programming
@@ -347,9 +347,9 @@ certifications:
         - name: Post Graduate Diploma in Industrial Automation
           start: Mar 2013
           end: June 2013
-          organization: Prolific Technologies
+          organization: Prolific Systems & Technologies
           credentialid: 
-          credentialurl: www.prolifictechnologies.com/
+          credentialurl: https://www.prolifictraining.com/
           credentialname: Prolific
           details: |
             - Programmable Logic Controllers
