@@ -250,22 +250,25 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python, Julia & MATLAB
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: EnergyPlus & PVSyst
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: OpenDss, MATPOWER & SimPowerSystems
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Optimization Packages
+        level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Machine Learning Packages
+        level: 60%
 
-      - name: Sketch & Photoshop
+      - name: Reinforcement Learning Packages
+        level: 40%
+
+      - name: Mathematics
         level: 60%
 
 footer: >
