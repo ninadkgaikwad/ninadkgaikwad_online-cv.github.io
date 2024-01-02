@@ -99,67 +99,82 @@ experiences:
         company: Startup Hubs, San Francisco
         link: https://ninadkgaikwad.github.io/ninadkgaikwad_online-cv.github.io/
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
         link: https://ninadkgaikwad.github.io/ninadkgaikwad_online-cv.github.io/
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        link: https://ninadkgaikwad.github.io/ninadkgaikwad_online-cv.github.io/
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
 
-certifications:
-      title: Certifications
-      list:
-        - name: Post Graduate Diploma in Embedded Systems
-          start: Sept 2015
-          end: Dec 2015
-          organization: Prolific Technologies
-          credentialid: 
-          credentialurl: www.prolifictechnologies.com/
-          credentialname: Prolific
-          details: |
-            - Microcontroller (8051, ARM, Pic) Programming
-            - Embedded Linux
-        - name: Git learning
-          start: Mar 2013
-          end: June 2013
-          organization: Prolific Technologies
-          credentialid: 
-          credentialurl: www.prolifictechnologies.com/
-          credentialname: Prolific
-          details: |
-            - Programmable Logic Controllers
-            - SCADA Software
-            - Variable Speed Drives
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
+        link: https://ninadkgaikwad.github.io/ninadkgaikwad_online-cv.github.io/
+        details: |
+            - Bullet point
+            - Bullet point
 
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
+        link: https://ninadkgaikwad.github.io/ninadkgaikwad_online-cv.github.io/
+        details: |
+            - Bullet point
+            - Bullet point
+
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
+        link: https://ninadkgaikwad.github.io/ninadkgaikwad_online-cv.github.io/
+        details: |
+            - Bullet point
+            - Bullet point
+
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
+        link: https://ninadkgaikwad.github.io/ninadkgaikwad_online-cv.github.io/
+        details: |
+            - Bullet point
+            - Bullet point
+
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
+        link: https://ninadkgaikwad.github.io/ninadkgaikwad_online-cv.github.io/
+        details: |
+            - Bullet point
+            - Bullet point
+
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
+        link: https://ninadkgaikwad.github.io/ninadkgaikwad_online-cv.github.io/
+        details: |
+            - Bullet point
+            - Bullet point
+
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
+        link: https://ninadkgaikwad.github.io/ninadkgaikwad_online-cv.github.io/
+        details: |
+            - Bullet point
+            - Bullet point
+
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
+        link: https://ninadkgaikwad.github.io/ninadkgaikwad_online-cv.github.io/
+        details: |
+            - Bullet point
+            - Bullet point  
+
+            
 projects:
     title: Projects
     intro: >
@@ -283,6 +298,32 @@ publications:
         authors: Ninad Gaikwad, Shantanu Vasihnav, Sagarkumar Agravat
         type: Conference Poster
         conference: "Oct 2016, Poster Presentation at PVSEC-26, Singapore"
+
+certifications:
+      title: Certifications
+      list:
+        - name: Post Graduate Diploma in Embedded Systems
+          start: Sept 2015
+          end: Dec 2015
+          organization: Prolific Technologies
+          credentialid: 
+          credentialurl: www.prolifictechnologies.com/
+          credentialname: Prolific
+          details: |
+            - Microcontroller (8051, ARM, Pic) Programming
+            - Embedded Linux
+            
+        - name: Post Graduate Diploma in Industrial Automation
+          start: Mar 2013
+          end: June 2013
+          organization: Prolific Technologies
+          credentialid: 
+          credentialurl: www.prolifictechnologies.com/
+          credentialname: Prolific
+          details: |
+            - Programmable Logic Controllers
+            - SCADA Software
+            - Variable Speed Drives
 
 skills:
     title: Skills &amp; Proficiency
