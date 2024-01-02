@@ -68,6 +68,7 @@ education:
       - degree: MSc in Computer Science
         university: University of London
         time: 2011 - 2012
+        link: https://ninadkgaikwad.github.io/ninadkgaikwad_online-cv.github.io/
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -79,6 +80,7 @@ education:
       - degree: BSc in Applied Mathematics
         university: Bristol University
         time: 2007 - 2011
+        link: https://ninadkgaikwad.github.io/ninadkgaikwad_online-cv.github.io/
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
