@@ -94,85 +94,94 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        link: https://ninadkgaikwad.github.io/ninadkgaikwad_online-cv.github.io/
+      - role: Graduate Research Assistant
+        time: Jan 2023 - Present
+        company: School of Electrical Engineering and Computer Science, WSU, Pullman
+        link: https://school.eecs.wsu.edu/
         details: |
-            - Bullet point
-            - Bullet point
+            - Working on developing intelligent algorithms for networked Smart Buildings for grid support.
+            - Developing computationally efficient yet accurate building grey and black box thermal models of residential/commercial buildings.
+            - Developing a co-simulation test bench for simulating a large number of buildings with the distribution system.
             
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        link: https://ninadkgaikwad.github.io/ninadkgaikwad_online-cv.github.io/
+      - role: Machine Learning Intern
+        time: May 2023 - Aug 2023
+        company: Research & Development Group, Edo Energy, Spokane
+        link: https://edoenergy.com/
         details: |
-            - Bullet point
-            - Bullet point
+            - Developed an open-source State Estimation toolbox based on Bayesian Filtering and Smoothing for Building Thermal Models.
+            - Developed Parameter Estimation Algorithms based on Bayesian Inference for Building Thermal Models.
 
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        link: https://ninadkgaikwad.github.io/ninadkgaikwad_online-cv.github.io/
+        role: Tutor
+        time: July 2022 - July 2022
+        company: Bridge Program, College Access \& Transition Programs, WSU, Pullman
+        link: https://provost.wsu.edu/oae/programs/
         details: |
-            - Bullet point
-            - Bullet point
+            - Conducted a two-week course on introduction to engineering for recent high school graduates.
+            - Helped students understand the differences and similarities in the different engineering domains.
+            - Taught students basic programming skills in Python.
 
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        link: https://ninadkgaikwad.github.io/ninadkgaikwad_online-cv.github.io/
+      - role: Graduate Assistant
+        time: Aug 2018 - Dec 2021
+        company: Mechanical & Aerospace Engineering Department, UFL, Gainesville
+        link: https://mae.ufl.edu/
         details: |
-            - Bullet point
-            - Bullet point
+            - Developed control algorithms based on MPC and RL for home energy resiliency.
+            - Aided student learning for undergraduate Controls and Numerical Methods courses as a teaching assistant for 6 semesters.
+            - Mentored one graduate and two undergraduate students to pursue research in home energy resiliency.
+                  
+      - role: Research Intern
+        time: May 2021 - Aug 2021
+        company: Energy Systems Control and Optimization Group, NREL, Golden
+        link: https://www.nrel.gov/grid/distributed-optimization-control.html
+        details: |
+            - Worked on transient voltage stability of two-bus inverter-based microgrids.
+            - Analyzed the stability of the two-bus system using the Lyapunov method.
+            - Developed a GUI-based application for stability analysis and visualization for the two-bus system.
+    
+      - role: Research Consultant
+        time: June 2018 - July 2018
+        company: Centre of Excellence in Complex and Nonlinear Dynamical Systems (CoE-CNDS), VJTI, Mumbai
+        link: https://vjti.ac.in/coe-cnds/
+        details: |
+            - Performed set up of the self-developed Renewable Energy Forecasting System (SWEEFA-V1.0) at CoE-CNDS.
+            - Trained two graduate students on the self-developed renewable energy forecasting software.
+            - Created a road map for the research and development of the SWEEFA system.
+            
+      - role: Consultant
+        time: Dec 2017 - May 2018
+        company: Technology & Digital Innovation Group, Mytrah Energy, Hyderabad
+        link: http://www.mytrah.com/
+        details: |
+            - Worked on the Implementation of a Real-Time Renewable Forecasting System.
+            - Developed tools for Solar and Wind Power Plant Performance Analysis.
+            - Trained and led a team of three in Data Analytics and associated tools.
 
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        link: https://ninadkgaikwad.github.io/ninadkgaikwad_online-cv.github.io/
+      - role: Assistant Professor
+        time: Jan 2017 - June 2017
+        company: Electrical Engineering Department, SPCE, Mumbai
+        link: https://www.spce.ac.in/electrical.php
         details: |
-            - Bullet point
-            - Bullet point
+            - Taught a graduate course on the Application of Power Electronics in Renewable Energy Systems.
+            - Guided and mentored three graduate students in their seminar mini-projects.
+            - Tutored graduate students in MATLAB Programming and Simulink Simulations.      - 
 
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        link: https://ninadkgaikwad.github.io/ninadkgaikwad_online-cv.github.io/
+      - role: Jr. Project Fellow
+        time: Aug 2016 - Jan 2017
+        company: Gujarat Energy & Research Management Institute (GERMI), Gandhinagar
+        link: https://www.germi.org/
         details: |
-            - Bullet point
-            - Bullet point
+            - Supported the institute's renewable energy training programs by developing program manuals and giving presentations on selected topics.
+            - Worked on the improvement of the Renewable Energy Forecasting System (SWEEFA).
+            - Mentored two graduate students to develop RNN-based short-term forecasting models and empirical analysis of ARIMA models for renewable energy generation.
 
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        link: https://ninadkgaikwad.github.io/ninadkgaikwad_online-cv.github.io/
+      - role: Research Intern
+        time: Aug 2015 - June 2016
+        company: Gujarat Energy & Research Management Institute (GERMI), Gandhinagar
+        link: https://www.germi.org/
         details: |
-            - Bullet point
-            - Bullet point
-
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        link: https://ninadkgaikwad.github.io/ninadkgaikwad_online-cv.github.io/
-        details: |
-            - Bullet point
-            - Bullet point
-
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        link: https://ninadkgaikwad.github.io/ninadkgaikwad_online-cv.github.io/
-        details: |
-            - Bullet point
-            - Bullet point
-
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        link: https://ninadkgaikwad.github.io/ninadkgaikwad_online-cv.github.io/
-        details: |
-            - Bullet point
-            - Bullet point  
+            - Worked on my M-Tech research thesis in the field of Solar and Wind Energy Forecasting.
+            - Conceptualized and developed an end-to-end renewable energy estimation and forecasting software in MATLAB with a GUI interface called Solar \& Wind Energy Estimation and Forecasting Application (SWEEFA).
+            - Mentored two graduate students to develop components of SWEEFA.
 
             
 projects:
