@@ -12,7 +12,7 @@
     {% for graduation in education.info %}
     <div class="item">
       <h4 class="degree">{{ graduation.degree }}</h4>
-      <h5 class="meta"><a href="https://ninadkgaikwad.github.io/ninadkgaikwad_online-cv.github.io/">link {{ graduation.university }}</a></h5>
+      <h5 class="meta"><a href="{{ graduation.link }}">{{ graduation.university }}</a></h5>
       <div class="time">{{ graduation.time }}</div>
     </div><!--//item-->
     {% endfor %}
