@@ -65,31 +65,53 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        link: https://ninadkgaikwad.github.io/ninadkgaikwad_online-cv.github.io/
+      - degree: PhD in Electrical Engineering and Computer Science
+        university: Washington State University (WSU)
+        time: Jan 2022 - Present
+        link: https://school.eecs.wsu.edu/
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor.          
-          Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        link: https://ninadkgaikwad.github.io/ninadkgaikwad_online-cv.github.io/
+          Major areas of study: Power Systems Analysis, Power Systems Dynamics and Control, and Estimation Theory.
+          Current GPA 3.71/4 
+          
+      - degree: MS in Computer Science
+        university: Washington State University (WSU)
+        time: Jan 2022 - Present
+        link: https://school.eecs.wsu.edu/
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Major areas of study: Machine Learning, Data Science, and Algorithmics.
+          Current GPA 3.71/4 
+
+      - degree: MS in Mechanical Engineering 
+        university: University of Florida (UFL)
+        time: Aug 2018 - Dec 2021
+        link: https://mae.ufl.edu/
+        details: |
+          Major areas of study: Control Theory, Probability, Optimization, Machine Learning, and Reinforcement Learning.
+          GPA 3.18/4 
+
+      - degree: MTech in Electrical Engineering
+        university: Sardar Patel College of Engineering (SPCE)}
+        time: Aug 2014 - June 2016
+        link: https://www.spce.ac.in/electrical.php
+        details: |
+          Major areas of study: Electrical Machine Analysis, Power Electronic Drives, Power System Dynamics and Control .
+          CGPA 9.88/10 
+
+      - degree: MProfEng in Electrical Engineering (One Semester)
+        university: University of Wollongong (UOW)
+        time: Feb 2014 - June 2014
+        link: https://www.uow.edu.au/engineering-information-sciences/schools-entities/secte/
+        details: |
+          Major areas of study: Power Systems and Renewable Energy Technologies.
+          Current High Distinction with 86.33%  
+
+      - degree: BTech in Electrical Engineering
+        university: Veermata Jijabai Technological Institute (VJTI)}
+        time: Aug 22008 - June 2012
+        link: https://vjti.ac.in/academics/academic-programs/electrical-engineering-department/
+        details: |
+          Major areas of study: Power Engineering and Control Systems.
+          CPI 5.8/10     
 
 experiences:
     title: Experiences
