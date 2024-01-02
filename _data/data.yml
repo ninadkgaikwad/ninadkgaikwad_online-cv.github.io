@@ -179,52 +179,84 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Following is a selected list of projects with associated links, for an exhaustive list download CV from the sidebar.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Intelligent Control of Networked Buildings
+        link: "https://github.com/ninadkgaikwad/IntelligentControlOfNetworkedBuildings"
+        tagline: "The project involves developing and comparing computationally inexpensive black/grey-box developing models (neural network architectures and Bayesian estimation methods) for residential/commercial buildings where data comes from EnergyPlus and other open-source building data repositories like PecanStreet. Then a simulation framework has to be developed to co-simulate these building models at scale with OpenDSS (along with HELICS) to aid the development of both single-building and aggregator-level intelligent controllers which can optimize the energy consumption of buildings for grid support. Currently, we are pursuing model estimation and development of the co-simulation platform."
+        place: WSU, Pullman
+        time: Jan 2022 - Present
+
+      - title: Power Systems Analysis Toolbox (PowerEdu.jl)
+        link: "https://github.com/ninadkgaikwad/PowerEdu"
+        tagline: "Course project for Analysis of Power Systems (EE521). A Julia-based package is being developed to perform Newton-Raphson-based power flow, continuation power flow, power system static state estimation, and basic power system optimization. Currently, power system stability analysis and transient simulation capabilities (EE523) are being implemented."
+        place: WSU, Pullman
+        time: Aug 2022 - Present
+
+      - title: Power System Control Algorithm Vulnerability Analysis using Network Science
+        link: "https://github.com/ninadkgaikwad/22_NetworkScience_Project"
+        tagline: "Course project for Introduction to Network Science (CPTS591). A power system transients simulator with closed-loop control and inter-node communication capabilities was developed in Python in a modular fashion. A comparison was done of the capability of degree centrality, PageRank, and eigenvalue-based analysis for accurately predicting the criticality of the power system nodes about their impact on the performance of a distributed frequency control algorithm."
+        place: WSU, Pullman
+        time: Jan 2022 - Apr 2022
+
+      - title: Home Energy Resiliency
+        link: "https://github.com/ninadkgaikwad/EnergyResiliency_SmartCommunity_MPC_RL"
+        tagline: "Where during grid outage scenario smart houses with PV, Battery storage, EVs and smart loads will be capable of managing their energy based on optimal control and reinforcement learning. MPC and RL-based central controllers for a single house have been developed. Currently work on centralized and distributed architectures based on MPC and RL for energy resiliency of community of houses is being pursued."
+        place: UFL, Gainesville
+        time: Jan 2019 - Present
+
+      - title: GAN and VAE for MNIST
+        link: "https://github.com/ninadkgaikwad/GAN_VAE_Project"
+        tagline: "Course project for Machine Learning (CAP6610). Generative Adversarial Networks and Variational Autoencoder networks were trained on the MNIST dataset to generate handwritten digits. Two types each of the GAN and VAE were trained one with dense layers and the other with CNN layers, the implementation was done using the TensorFlow library in Python."
+        place: UFL, Gainesville
+        time: Aug 2020 - Dec 2020
+
+      - title: Optimal Control Indirect and Direct Method Implementation
+        link: "https://github.com/ninadkgaikwad/OptimalControl_Project"
+        tagline: "Course project for Optimal Control (EML6934). The Linear Tangent Steering Control and Robot Arm Control problems were formulated as optimal control problems and solved numerically using MATLAB. For the indirect method, a Hamiltonian Boundary Value Problem (HBVP) was formulated through optimality conditions arising from the calculus of variations, and for the direct method, Collocation was used by formulating a Nonlinear Program (NLP). The NLP was formulated in MATLAB and solved using IPOPT."
+        place: UFL, Gainesville
+        time: Aug 2019 - Dec 2019
+
+      - title: Design and testing of State Feedback based Set-Point Tracking Controller
+        link: "https://github.com/ninadkgaikwad/LQR_Project"
+        tagline: "Course project for Control Theory (EML5311). System identification of an unknown plant with sensor noise was conducted using the Sine-Sweep technique through simulations in MATLAB. The estimated transfer function was converted to a minimally realized state-space model for designing a Linear Quadratic Regulator (LQR) for set-point tracking using MATLAB."
+        place: UFL, Gainesville
+        time: Jan 2019 - Apr 2019
+
+      - title: ARMA Time Series Modeling for Solar PV Generation Forecasting
+        link: "https://github.com/ninadkgaikwad/ARMA_TimeSeries_Forecasting_Project"
+        tagline: "Course project for Optimal Estimation and Kalman Filtering (EML6352). ARMA models based on Least Squares and Maximum Likelihood Estimation techniques were developed and implemented in MATLAB and compared against the ARMA models of MATLAB’s Econometrics toolbox, for forecasting solar power generation from a real-world dataset. The effect of different ARMA models, amount of training data, and prediction on different timescales was studied."
+        place: UFL, Gainesville
+        time: Aug 2018 - Dec 2018
+
+      - title: Data Fault Detection
+        link: "https://github.com/ninadkgaikwad/DataFault_Detection"
+        tagline: "Worked with Dr. Anupama Kowli in the Electrical Department of IIT-B to develop data fault detection algorithms for real-building data collected using Raspberry-Pi-based sensors deployed in one of the lecture halls. The methods applied were SVM, ANN, Wavelets, PCA, and a hybrid PCA-Wavelet. All the algorithms were developed in MATLAB in a modular manner."
+        place: IIT-B, Mumbai
+        time: Aug 2017 - Oct 2017
+
+      - title: Forecasting of Solar & Wind Energy
+        link: "https://github.com/ninadkgaikwad/SWEEFA_Development"
+        tagline: "Master’s Thesis project, in which an entire software for solar and wind energy estimation and forecasting was created in MATLAB using GUI. The software has the capability for generation plant-level energy estimation capability for both wind and solar generation plants. The software also has a weather and generation data preprocessing system. Forecasting using ANN and ARIMA can be done using their respective GUI interfaces. Forecasting using WRF (NWP model) is also automated by developing BASH Shell scripts and running it on a cluster of four RaspberryPi-2 micro-computers."
         place: SPCE, Mumbai
-        time: Aug 2020 - Present
+        time: Aug 2015 - June 2016
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-        place:
-        time:
+      - title: DTC Control of DFIG
+        link: "https://github.com/ninadkgaikwad/DFIG_Control_Simulations"
+        tagline: "Individual project, in which a research paper on the ANN-based DTC control strategy for the DFIG was studied, a simulation on the same was created in Sim PowerSystems Matlab, and an IEEE-style report was prepared. Gained valuable experience in decoding a research paper and simulation methodology. A seminar on the same was presented before the faculty of the electrical department."
+        place: SPCE, Mumbai
+        time: Jan 2015 - Apr 2015
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-        place:
-        time:
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-        place:
-        time:
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-        place:
-        time:
-
-oss:
-    title: 
-    intro: >
-    contributions:
-      - title: 
-        link: 
-        tagline: 
+      - title: Vector Control of DFIG
+        link: "https://github.com/ninadkgaikwad/DFIG_Control_Simulations"
+        tagline: "Individual project, in which a research paper on the vector control strategy for the DFIG was studied, a simulation on the same was created in Sim PowerSystems Matlab, and an IEEE-style report was prepared. Gained valuable experience in decoding a research paper and simulation methodology. A seminar on the same was presented before the faculty of the electrical department."
+        place: SPCE, Mumbai
+        time: Aug 2014 - Dec 2014
 
 publications:
     title: Publications
     intro: |
-      Following is an exhaustive list of publications including journal papers, conference papers and conference posters.
+      Following is a selected list of publications including journal papers, conference papers, and conference posters with associated links, for an exhaustive list download CV from the sidebar.
     papers:
       - title: Increasing Energy Resiliency to Hurricanes with Battery and Rooftop Solar Through Intelligent Control
         link: "https://arxiv.org/abs/2102.04406"
