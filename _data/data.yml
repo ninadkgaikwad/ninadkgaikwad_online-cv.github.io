@@ -297,6 +297,54 @@ publications:
     intro: |
       Following is a selected list of publications including journal papers, conference papers, and conference posters with associated links, for an exhaustive list download CV from the sidebar.
     papers:
+      - title: From Basic ANN to Scientific ML-Based Building Thermal Models For Grid-Edge Applications
+        link: "https://doi.org/10.13140/RG.2.2.21646.37449"
+        authors: Ninad Gaikwad, Sajjad Uddin Mahmud, Malak Parmar, Anamika Dubey
+        type: Conference Poster
+        conference: "Aug 2024, Poster Presentation at Advanced Grid Institute Day 2024 (WSU and PNNL)"
+        
+      - title: Enhancing Building Thermal Models: From Basic Greybox to SciML-Driven Digital Twins
+        link: "https://doi.org/10.13140/RG.2.2.35068.14720"
+        authors: Kunal Shankar, Ninad Gaikwad, Anamika Dubey
+        type: Conference Poster
+        conference: "Aug 2024, Poster Presentation at Advanced Grid Institute Day 2024 (WSU and PNNL)"
+        
+      - title: Building Energy Models using Generative Learning for Grid-Edge Applications
+        link: "https://doi.org/10.13140/RG.2.2.26679.53927"
+        authors: Kasey Dettlaff, Ninad Gaikwad, Anamika Dubey
+        type: Conference Poster
+        conference: "Aug 2024, Poster Presentation at Advanced Grid Institute Day 2024 (WSU and PNNL)"
+        
+      - title: ANN Based Thermal Modeling of Buildings
+        link: "https://doi.org/10.13140/RG.2.2.25001.81766"
+        authors: Ninad Gaikwad, Sajjad Uddin Mahmud, Anamika Dubey
+        type: Conference Poster
+        conference: "July 2024, Poster Presentation at IEEE Power and Energy Society General Meeting (PESGM) 2024"
+        
+      - title: Comparison of Bayesian Filters and Smoothers for Joint State-Parameter Estimation of Building Thermal Dynamics Model
+        link: "https://doi.org/10.13140/RG.2.2.14935.48804"
+        authors: Kunal Shankar, Ninad Gaikwad, Anamika Dubey
+        type: Conference Poster
+        conference: "July 2024, Poster Presentation at IEEE Power and Energy Society General Meeting (PESGM) 2024"
+        
+      - title: An Opensource GUI-Based Application for EnergyPlus Data Analysis
+        link: "https://doi.org/10.13140/RG.2.2.31712.70401"
+        authors: Athul P Jose, Kasey Dettlaff, Ninad Gaikwad, Anamika Dubey
+        type: Conference Poster
+        conference: "July 2024, Poster Presentation at IEEE Power and Energy Society General Meeting (PESGM) 2024"
+        
+      - title: Smart Residential Community Simulator
+        link: "https://doi.org/10.13140/RG.2.2.35458.29127"
+        authors: Ninad Gaikwad, Shishir Lamichhane, Anamika Dubey
+        type: Conference Poster
+        conference: "Apr 2024, Poster Presentation at Power and Energy Conference at Illinois 2024"
+        
+      - title: Model Predictive Control based Energy Management System for Home Energy Resiliency
+        link: "https://doi.org/10.48550/arXiv.2404.05873"
+        authors: Ninad Gaikwad, Shishir Lamichhane, Anamika Dubey
+        type: Conference Paper
+        conference: "Apr 2024, arXiv preprint arXiv:2404.05873"
+        
       - title: Increasing Energy Resiliency to Hurricanes with Battery and Rooftop Solar Through Intelligent Control
         link: "https://arxiv.org/abs/2102.04406"
         authors: Ninad Gaikwad, Naren Raman Srivaths, Prabir Barooah
