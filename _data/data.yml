@@ -62,6 +62,38 @@ career-profile:
     title: Career Profile
     summary: |
       An engineer with a bend for research in Smart Grids, combining Power Systems, Control Systems, and Machine Learning to create an autonomous energy grid.
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python, Julia & MATLAB
+        level: 90%
+
+      - name: Database Skills
+        level: 60%
+
+      - name: Cluster Computing Skills
+        level: 50%
+
+      - name: EnergyPlus & PVSyst
+        level: 80%
+
+      - name: OpenDss, MATPOWER & SimPowerSystems
+        level: 70%
+
+      - name: Optimization Packages
+        level: 70%
+
+      - name: Machine Learning Packages
+        level: 60%
+
+      - name: Reinforcement Learning Packages
+        level: 50%
+
+      - name: Mathematics
+        level: 60%
+        
 education:
     title: Education
     info:
@@ -415,36 +447,7 @@ certifications:
             - SCADA Software
             - Variable Speed Drives
 
-skills:
-    title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python, Julia & MATLAB
-        level: 90%
-
-      - name: Database Skills
-        level: 60%
-
-      - name: Cluster Computing Skills
-        level: 50%
-
-      - name: EnergyPlus & PVSyst
-        level: 80%
-
-      - name: OpenDss, MATPOWER & SimPowerSystems
-        level: 70%
-
-      - name: Optimization Packages
-        level: 70%
-
-      - name: Machine Learning Packages
-        level: 60%
-
-      - name: Reinforcement Learning Packages
-        level: 50%
-
-      - name: Mathematics
-        level: 60%
 
 footer: >
     Ninad Kiran Gaikwad - Online CV
