@@ -124,6 +124,15 @@ experiences:
             - Working on developing intelligent algorithms for networked Smart Buildings for grid support.
             - Developing computationally efficient yet accurate building grey and black box thermal models of residential/commercial buildings.
             - Developing a co-simulation test bench for simulating a large number of buildings with the distribution system.
+
+      - role: Instructor
+        time: June 2022 - Aug 2022
+        company: Computational Skills for MIRA Program, WSU, Pullman
+        link: https://mira.wsu.edu/
+        details: |
+            - Conducted a six-week course on computer programming with Python for high school transistioners to college.
+            - Developed syllabus, class material, lab material, and maintained a Google Classroom.
+            - Taught students programming concepts from basic to intermediate level in Python.
             
       - role: Machine Learning Intern
         time: May 2023 - Aug 2023
@@ -363,6 +372,12 @@ skills:
       - name: Python, Julia & MATLAB
         level: 90%
 
+      - name: Database Skills
+        level: 60%
+
+      - name: Cluster Computing Skills
+        level: 50%
+
       - name: EnergyPlus & PVSyst
         level: 80%
 
@@ -376,7 +391,7 @@ skills:
         level: 60%
 
       - name: Reinforcement Learning Packages
-        level: 40%
+        level: 50%
 
       - name: Mathematics
         level: 60%
