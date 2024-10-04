@@ -293,7 +293,55 @@ projects:
         time: Aug 2014 - Dec 2014
 
 publications:
-    title: Publications
+    title: Publications - Journal Papers
+    intro: |
+      Following is a selected list of publications including journal papers, conference papers, and conference posters with associated links, for an exhaustive list download CV from the sidebar.
+    papers:
+        
+      - title: Increasing Energy Resiliency to Hurricanes with Battery and Rooftop Solar Through Intelligent Control
+        link: "https://arxiv.org/abs/2102.04406"
+        authors: Ninad Gaikwad, Naren Raman Srivaths, Prabir Barooah
+        type: Journal Paper
+        conference: "Feb 2021, arXiv preprint arXiv:2102.04406"
+
+publications:
+    title: Publications - Conference Papers
+    intro: |
+      Following is a selected list of publications including journal papers, conference papers, and conference posters with associated links, for an exhaustive list download CV from the sidebar.
+    papers:
+    
+      - title: Model Predictive Control based Energy Management System for Home Energy Resiliency
+        link: "https://doi.org/10.48550/arXiv.2404.05873"
+        authors: Ninad Gaikwad, Shishir Lamichhane, Anamika Dubey
+        type: Conference Paper
+        conference: "Apr 2024, arXiv preprint arXiv:2404.05873"
+
+      - title: Reinforcement Learning-Based Home Energy Management System for Resiliency
+        link: "https://ieeexplore.ieee.org/document/9483162"
+        authors: Naren Raman Srivaths, Ninad Gaikwad, Prabir Barooah, Sean Meyn
+        type: Conference Paper
+        conference: "May 2021, Oral Presentation at ACC-2021, IEEE Conference, New Orleans, USA"
+
+      - title: Smart Home Energy Management System for Power System Resiliency
+        link: "https://ieeexplore.ieee.org/document/9206361"
+        authors: Ninad Gaikwad, Naren Raman Srivaths, Prabir Barooah
+        type: Conference Paper
+        conference: "Aug 2020, Oral Presentation at CCTA-2020, IEEE Conference, Vancouver, Canada"
+
+      - title: On The Development of Solar & Wind Energy Forecasting
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vs7Oqv8AAAAJ&citation_for_view=vs7Oqv8AAAAJ:9yKSN-GCB0IC"
+        authors: Ninad Gaikwad, Sagarkumar Agravat
+        type: Conference Paper
+        conference: "Mar 2017, Oral Presentation at INDIACom-2017, IEEE Conference, Delhi, India"
+
+      - title: Photovoltaic Grid Connected Plant Energy Estimation Application in MATLAB
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vs7Oqv8AAAAJ&citation_for_view=vs7Oqv8AAAAJ:2osOgNQ5qMEC"
+        authors: Ninad Gaikwad, Sagarkumar Agravat
+        type: Conference Paper
+        conference: "Oct 2016, Oral Presentation at PVSEC-26, Singapore"
+
+publications:
+    title: Publications - Conference Posters
     intro: |
       Following is a selected list of publications including journal papers, conference papers, and conference posters with associated links, for an exhaustive list download CV from the sidebar.
     papers:
@@ -337,44 +385,8 @@ publications:
         link: "https://doi.org/10.13140/RG.2.2.35458.29127"
         authors: Ninad Gaikwad, Shishir Lamichhane, Anamika Dubey
         type: Conference Poster
-        conference: "Apr 2024, Poster Presentation at Power and Energy Conference at Illinois 2024"
+        conference: "Apr 2024, Poster Presentation at Power and Energy Conference at Illinois 2024"    
         
-      - title: Model Predictive Control based Energy Management System for Home Energy Resiliency
-        link: "https://doi.org/10.48550/arXiv.2404.05873"
-        authors: Ninad Gaikwad, Shishir Lamichhane, Anamika Dubey
-        type: Conference Paper
-        conference: "Apr 2024, arXiv preprint arXiv:2404.05873"
-        
-      - title: Increasing Energy Resiliency to Hurricanes with Battery and Rooftop Solar Through Intelligent Control
-        link: "https://arxiv.org/abs/2102.04406"
-        authors: Ninad Gaikwad, Naren Raman Srivaths, Prabir Barooah
-        type: Journal Paper
-        conference: "Feb 2021, arXiv preprint arXiv:2102.04406"
-
-      - title: Reinforcement Learning-Based Home Energy Management System for Resiliency
-        link: "https://ieeexplore.ieee.org/document/9483162"
-        authors: Naren Raman Srivaths, Ninad Gaikwad, Prabir Barooah, Sean Meyn
-        type: Conference Paper
-        conference: "May 2021, Oral Presentation at ACC-2021, IEEE Conference, New Orleans, USA"
-
-      - title: Smart Home Energy Management System for Power System Resiliency
-        link: "https://ieeexplore.ieee.org/document/9206361"
-        authors: Ninad Gaikwad, Naren Raman Srivaths, Prabir Barooah
-        type: Conference Paper
-        conference: "Aug 2020, Oral Presentation at CCTA-2020, IEEE Conference, Vancouver, Canada"
-
-      - title: On The Development of Solar & Wind Energy Forecasting
-        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vs7Oqv8AAAAJ&citation_for_view=vs7Oqv8AAAAJ:9yKSN-GCB0IC"
-        authors: Ninad Gaikwad, Sagarkumar Agravat
-        type: Conference Paper
-        conference: "Mar 2017, Oral Presentation at INDIACom-2017, IEEE Conference, Delhi, India"
-
-      - title: Photovoltaic Grid Connected Plant Energy Estimation Application in MATLAB
-        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vs7Oqv8AAAAJ&citation_for_view=vs7Oqv8AAAAJ:2osOgNQ5qMEC"
-        authors: Ninad Gaikwad, Sagarkumar Agravat
-        type: Conference Paper
-        conference: "Oct 2016, Oral Presentation at PVSEC-26, Singapore"
-
       - title: Development of Solar & Wind Energy Forecasting Application
         link: "https://www.researchgate.net/publication/314706171_Solar_Wind_Energy_Estimation_and_Forecasting_Application"
         authors: Ninad Gaikwad, Sagarkumar Agravat
