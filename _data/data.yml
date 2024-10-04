@@ -290,31 +290,26 @@ projects:
         link: "https://github.com/ninadkgaikwad/DFIG_Control_Simulations"
         tagline: "Individual project, in which a research paper on the vector control strategy for the DFIG was studied, a simulation on the same was created in Sim PowerSystems Matlab, and an IEEE-style report was prepared. Gained valuable experience in decoding a research paper and simulation methodology. A seminar on the same was presented before the faculty of the electrical department."
         place: SPCE, Mumbai
-        time: Aug 2014 - Dec 2014
-
-publications:
-    title: Publications - Journal Papers
-    intro: |
-      Following is a selected list of publications including journal papers, conference papers, and conference posters with associated links, for an exhaustive list download CV from the sidebar.
-    papers:
-        
-      - title: Increasing Energy Resiliency to Hurricanes with Battery and Rooftop Solar Through Intelligent Control
-        link: "https://arxiv.org/abs/2102.04406"
-        authors: Ninad Gaikwad, Naren Raman Srivaths, Prabir Barooah
-        type: Journal Paper
-        conference: "Feb 2021, arXiv preprint arXiv:2102.04406"
+        time: Aug 2014 - Dec 2014        
+      
 
 publications:
     title: Publications - Conference Papers
     intro: |
       Following is a selected list of publications including journal papers, conference papers, and conference posters with associated links, for an exhaustive list download CV from the sidebar.
     papers:
+
+      - title: Increasing Energy Resiliency to Hurricanes with Battery and Rooftop Solar Through Intelligent Control
+        link: "https://arxiv.org/abs/2102.04406"
+        authors: Ninad Gaikwad, Naren Raman Srivaths, Prabir Barooah
+        type: Journal Paper
+        conference: "Feb 2021, arXiv preprint arXiv:2102.04406"
     
       - title: Model Predictive Control based Energy Management System for Home Energy Resiliency
         link: "https://doi.org/10.48550/arXiv.2404.05873"
         authors: Ninad Gaikwad, Shishir Lamichhane, Anamika Dubey
         type: Conference Paper
-        conference: "Apr 2024, arXiv preprint arXiv:2404.05873"
+        conference: "Apr 2024, arXiv preprint arXiv:2404.05873"      
 
       - title: Reinforcement Learning-Based Home Energy Management System for Resiliency
         link: "https://ieeexplore.ieee.org/document/9483162"
@@ -340,11 +335,6 @@ publications:
         type: Conference Paper
         conference: "Oct 2016, Oral Presentation at PVSEC-26, Singapore"
 
-publications:
-    title: Publications - Conference Posters
-    intro: |
-      Following is a selected list of publications including journal papers, conference papers, and conference posters with associated links, for an exhaustive list download CV from the sidebar.
-    papers:
       - title: From Basic ANN to Scientific ML-Based Building Thermal Models For Grid-Edge Applications
         link: "https://doi.org/10.13140/RG.2.2.21646.37449"
         authors: Ninad Gaikwad, Sajjad Uddin Mahmud, Malak Parmar, Anamika Dubey
@@ -385,8 +375,8 @@ publications:
         link: "https://doi.org/10.13140/RG.2.2.35458.29127"
         authors: Ninad Gaikwad, Shishir Lamichhane, Anamika Dubey
         type: Conference Poster
-        conference: "Apr 2024, Poster Presentation at Power and Energy Conference at Illinois 2024"    
-        
+        conference: "Apr 2024, Poster Presentation at Power and Energy Conference at Illinois 2024"
+
       - title: Development of Solar & Wind Energy Forecasting Application
         link: "https://www.researchgate.net/publication/314706171_Solar_Wind_Energy_Estimation_and_Forecasting_Application"
         authors: Ninad Gaikwad, Sagarkumar Agravat
