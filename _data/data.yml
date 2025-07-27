@@ -74,7 +74,7 @@ skills:
         level: 60%
 
       - name: Cluster Computing Skills
-        level: 50%
+        level: 80%
 
       - name: EnergyPlus & PVSyst
         level: 80%
@@ -83,10 +83,10 @@ skills:
         level: 70%
 
       - name: Optimization Packages
-        level: 70%
+        level: 80%
 
       - name: Machine Learning Packages
-        level: 60%
+        level: 80%
 
       - name: Reinforcement Learning Packages
         level: 50%
@@ -148,8 +148,24 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Power Systems Intern
+        time: Jun 2025 - Aug 2025
+        company: GE Vernova, Bellevue
+        link: https://www.gevernova.com/
+        details: |
+            - Developing a full AC Optimal Power Flow (AC-OPF) formulation and its convex relaxation for improved computational efficiency.
+            - Implementing a distributed ADMM-based solver to enable scalable OPF solutions.
+
+      - role: Engineering Intern
+        time: Jan 2025 - Present
+        company: North American Electric Reliability Corporation, Atlanta
+        link: https://www.nerc.com/AboutNERC/Pages/default.aspx
+        details: |
+            - Automated and analyzed FNET, GADS/TADS, and Velocity Suite datasets to support extreme weather resiliency studies.
+            - Developed a Plotly-Dash GUI and streamlined the Case Quality Metrics workflow for improved data processing and visualization.
+            
       - role: Graduate Research Assistant
-        time: Jan 2023 - Present
+        time: Jan 2022 - Present
         company: School of Electrical Engineering and Computer Science, WSU, Pullman
         link: https://school.eecs.wsu.edu/
         details: |
@@ -336,12 +352,36 @@ publications:
         authors: Ninad Gaikwad, Naren Raman Srivaths, Prabir Barooah
         type: Journal Paper
         conference: "Feb 2021, arXiv preprint arXiv:2102.04406"
+
+      - title: Smart Residential Community Simulator for Developing and Benchmarking Energy Management Systems
+        link: ""
+        authors: Ninad Gaikwad, Anamika Dubey
+        type: Conference Paper
+        conference: "Sept 2025, Oral Presentation at IEEE SmartGridComm 2025, Toronto, ON, Canada"  
+
+      - title: Comparing Building Thermal Dynamics Models and Estimation Methods for Grid-Edge Applications
+        link: ""
+        authors: Ninad Gaikwad, Kunal Shankar, Anamika Dubey, Alan Love, Olvar Bergland
+        type: Conference Paper
+        conference: "July 2025, Oral Presentation at IEEE PESGM 2025, Austin, TX, USA"
+
+      - title: An Open-Source Simulation and Data Management Tool for EnergyPlus Building Models
+        link: ""
+        authors: Ninad Gaikwad, Kasey Dettlaff, Athul Jose P, Anamika Dubey
+        type: Conference Paper
+        conference: "July 2025, Oral Presentation at IEEE PESGM 2025, Austin, TX, USA"
+
+      - title: Duck Curve Mitigation Through Optimal Orientation of Utility-Scale Solar Photovoltaics
+        link: "https://ieeexplore.ieee.org/document/11045039"
+        authors: Liadi Akande, Ninad Gaikwad, Shishir Lamichhane, Noel Schulz
+        type: Conference Paper
+        conference: "July 2025, Oral Presentation at IEEE PESGM 2025, Austin, TX, USA"
     
       - title: Model Predictive Control based Energy Management System for Home Energy Resiliency
-        link: "https://doi.org/10.48550/arXiv.2404.05873"
+        link: "https://ieeexplore.ieee.org/document/10741744"
         authors: Ninad Gaikwad, Shishir Lamichhane, Anamika Dubey
         type: Conference Paper
-        conference: "Apr 2024, arXiv preprint arXiv:2404.05873"      
+        conference: "Nov 2024, Oral Presentation at NAPS-2024, El Paso, USA"      
 
       - title: Reinforcement Learning-Based Home Energy Management System for Resiliency
         link: "https://ieeexplore.ieee.org/document/9483162"
