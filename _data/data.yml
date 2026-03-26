@@ -149,6 +149,14 @@ experiences:
     title: Experiences
     info:
       - role: Power Systems Intern
+        time: Sept 2025 - Present
+        company: iGridSim, Portland
+        link: https://igridsim.com/
+        details: |
+            - Developing scalable distribution grid simulation pipelines integrating CIM-based models, distribution grid power flow, and graph-based topology validation for large feeder datasets.
+            - Implementing machine learning based methods on AMI data to build robust secondary distribution system models, alongside developing optimization-based intelligent grid planning tools.
+            
+      - role: Power Systems Intern
         time: Jun 2025 - Aug 2025
         company: GE Vernova, Bellevue
         link: https://www.gevernova.com/
@@ -165,7 +173,7 @@ experiences:
             - Developed a Plotly-Dash GUI and streamlined the Case Quality Metrics workflow for improved data processing and visualization.
             
       - role: Graduate Research Assistant
-        time: Jan 2022 - Present
+        time: Jan 2022 - May 2025
         company: School of Electrical Engineering and Computer Science, WSU, Pullman
         link: https://school.eecs.wsu.edu/
         details: |
