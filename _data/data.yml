@@ -3,499 +3,483 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+  position: right   # position of the sidebar : left or right
+  about: true   # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: false   # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Ninad Kiran Gaikwad
-    tagline: PhD Candidate/Research Assistant
-    avatar: NKG_Professional_Pic.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  name: Ninad Kiran Gaikwad
+  tagline: PhD Candidate | Power & Energy Systems, Control, Optimization & Machine Learning
+  avatar: NKG_Professional_Pic.jpg    #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: ninad.gaikwad@wsu.edu
-    address: Spokane, WA, USA
-    phone: +1 352 871 4669
-    timezone: Pacific Timezone
-    citizenship: Indian
-    website: ninadkgaikwad.github.io #do not add http://
-    linkedin: ninadkirangaikwad
-    github: ninadkgaikwad
-    googlescholar: N. Gaikwad
-    researchgate: Ninad-Kiran-Gaikwad
-    orcid: 0000-0001-8544-6228    
-    youtube: '@ninadkgaikwad'   
-    twitter: '@NinadKiran'
-    soundcloud: ninadkgaikwad-263400663
-    pdf: assets/NKG_CV_LatestUpdate.pdf
-    pdf1: assets/NKG_Resume_LatestUpdate.pdf
-    
+  email: ninad.gaikwad@wsu.edu
+  address: Spokane, WA, USA
+  phone: +1 352 871 4669
+  timezone: Pacific Timezone
+  citizenship: Indian
+  website: ninadkgaikwad.github.io   #do not add http://
+  linkedin: ninadkirangaikwad
+  github: ninadkgaikwad
+  googlescholar: N. Gaikwad
+  researchgate: Ninad-Kiran-Gaikwad
+  orcid: 0000-0001-8544-6228
+  youtube: '@ninadkgaikwad'
+  twitter: '@NinadKiran'
+  soundcloud: ninadkgaikwad-263400663
+  pdf: assets/NKG_CV_LatestUpdate.pdf
+  pdf1: assets/NKG_Resume_LatestUpdate.pdf
 
-    languages:
-      title: Languages
-      info:
-        - idiom: Marathi
-          level: Native
 
-        - idiom: Hindi
-          level: Native
+  languages:
+    title: Languages
+    info:
+    - idiom: Marathi
+      level: Native
 
-        - idiom: English
-          level: Professional
+    - idiom: Hindi
+      level: Native
 
-        - idiom: French
-          level: Basic
+    - idiom: English
+      level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: Table Tennis
-          link:
+    - idiom: French
+      level: Basic
 
-        - item: Guitar
-          link:
+  interests:
+    title: Interests
+    info:
+    - item: Table Tennis
+      link:
 
-        - item: Cooking
-          link:
+    - item: Guitar
+      link:
+
+    - item: Cooking
+      link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      An engineer with a bend for research in Smart Grids, combining Power Systems, Control Systems, and Machine Learning to create an autonomous energy grid.
+  title: Career Profile
+  summary: |
+    Power and energy systems researcher and engineer specializing in intelligent buildings, optimization and control, and machine learning. Research focuses on scalable modeling and estimation of building thermal dynamics, building-grid simulation and co-simulation, and intelligent control of networked buildings for grid-edge applications. Additional work spans residential energy resiliency, home and community energy management, AC optimal power flow, distribution-grid analytics, renewable-energy forecasting, and data-driven modeling of energy systems.
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python, Julia & MATLAB
-        level: 90%
+  toolset:
+  - name: Python, Julia & MATLAB
+    level: 90%
 
-      - name: Database Skills
-        level: 60%
+  - name: Data & Database Tools
+    level: 60%
 
-      - name: Cluster Computing Skills
-        level: 80%
+  - name: Scientific & Cluster Computing
+    level: 80%
 
-      - name: EnergyPlus & PVSyst
-        level: 80%
+  - name: EnergyPlus & PVSyst
+    level: 80%
 
-      - name: OpenDss, MATPOWER & SimPowerSystems
-        level: 70%
+  - name: OpenDSS, MATPOWER & SimPowerSystems
+    level: 70%
 
-      - name: Optimization Packages
-        level: 80%
+  - name: Optimization Packages
+    level: 80%
 
-      - name: Machine Learning Packages
-        level: 80%
+  - name: Machine Learning Packages
+    level: 80%
 
-      - name: Reinforcement Learning Packages
-        level: 50%
+  - name: Reinforcement Learning Packages
+    level: 50%
 
-      - name: Mathematics
-        level: 60%
-        
+  - name: Mathematical & Computational Methods
+    level: 60%
+
 education:
-    title: Education
-    info:
-      - degree: PhD in Electrical Engineering and Computer Science
-        university: Washington State University (WSU)
-        time: Jan 2022 - Present
-        link: https://school.eecs.wsu.edu/
-        details: |
-          Major areas of study: Power Systems Analysis, Power Systems Dynamics and Control, and Estimation Theory.  <br>
-          Current GPA 3.71/4 
-          
-      - degree: MS in Computer Science
-        university: Washington State University (WSU)
-        time: Jan 2022 - Present
-        link: https://school.eecs.wsu.edu/
-        details: |
-          Major areas of study: Machine Learning, Data Science, and Algorithmics.  <br>
-          Current GPA 3.71/4 
-
-      - degree: MS in Mechanical Engineering 
-        university: University of Florida (UFL)
-        time: Aug 2018 - Dec 2021
-        link: https://mae.ufl.edu/
-        details: |
-          Major areas of study: Control Theory, Probability, Optimization, Machine Learning, and Reinforcement Learning.  <br>
-          GPA 3.18/4 
-
-      - degree: MTech in Electrical Engineering
-        university: Sardar Patel College of Engineering (SPCE)
-        time: Aug 2014 - June 2016
-        link: https://www.spce.ac.in/electrical.php
-        details: |
-          Major areas of study: Electrical Machine Analysis, Power Electronic Drives, Power System Dynamics and Control.  <br>
-          CGPA 9.88/10 
-
-      - degree: MProfEng in Electrical Engineering (One Semester)
-        university: University of Wollongong (UOW)
-        time: Feb 2014 - June 2014
-        link: https://www.uow.edu.au/engineering-information-sciences/schools-entities/secte/
-        details: |
-          Major areas of study: Power Systems and Renewable Energy Technologies.  <br>
-          High Distinction with 86.33%  
-
-      - degree: BTech in Electrical Engineering
-        university: Veermata Jijabai Technological Institute (VJTI)
-        time: Aug 22008 - June 2012
-        link: https://vjti.ac.in/academics/academic-programs/electrical-engineering-department/
-        details: |
-          Major areas of study: Power Engineering and Control Systems.  <br>
-          CPI 5.8/10     
-
+  title: Education
+  info:
+  - degree: PhD in Electrical Engineering and Computer Science
+    university: Washington State University (WSU)
+    time: Jan 2022 - Present
+    link: https://school.eecs.wsu.edu/
+    details: |
+      Research focus: development of a framework for modeling and control of networked buildings, spanning building thermal modeling and estimation, scientific machine learning, building-grid co-simulation, and intelligent control.  <br>
+      Major areas of study: Power Systems Analysis, Power Systems Dynamics and Control, and Estimation Theory.
+  - degree: MS in Computer Science
+    university: Washington State University (WSU)
+    time: Jan 2024 - Dec 2025
+    link: https://school.eecs.wsu.edu/
+    details: |
+      Thesis: <i>On Intelligent Control of Residential Energy Systems</i>.  <br>
+      Major areas of study: Machine Learning, Data Science, and Algorithmics, with research centered on intelligent control and simulation of residential energy systems.
+  - degree: MS in Mechanical Engineering
+    university: University of Florida (UFL)
+    time: Aug 2018 - Dec 2021
+    link: https://mae.ufl.edu/
+    details: |
+      Major areas of study: Control Theory, Probability, Optimization, Machine Learning, and Reinforcement Learning.  <br>
+      GPA: 3.18/4.
+  - degree: MTech in Electrical Engineering
+    university: Sardar Patel College of Engineering (SPCE)
+    time: Aug 2014 - Jun 2016
+    link: https://www.spce.ac.in/electrical.php
+    details: |
+      Major areas of study: Electrical Machine Analysis, Power Electronic Drives, and Power System Dynamics and Control.  <br>
+      CGPA: 9.88/10.
+  - degree: MProfEng in Electrical Engineering (One Semester)
+    university: University of Wollongong (UOW)
+    time: Feb 2014 - Jun 2014
+    link: https://www.uow.edu.au/engineering-information-sciences/schools-entities/secte/
+    details: |
+      Major areas of study: Power Systems and Renewable Energy Technologies.  <br>
+      High Distinction: 86.33%.
+  - degree: BTech in Electrical Engineering
+    university: Veermata Jijabai Technological Institute (VJTI)
+    time: Aug 2008 - Jun 2012
+    link: https://vjti.ac.in/academics/academic-programs/electrical-engineering-department/
+    details: |
+      Major areas of study: Power Engineering and Control Systems.  <br>
+      CPI: 5.8/10.
 experiences:
-    title: Experiences
-    info:
-      - role: Power Systems Intern
-        time: Sept 2025 - Present
-        company: iGridSim, Portland
-        link: https://igridsim.com/
-        details: |
-            - Developing scalable distribution grid simulation pipelines integrating CIM-based models, distribution grid power flow, and graph-based topology validation for large feeder datasets.
-            - Implementing machine learning based methods on AMI data to build robust secondary distribution system models, alongside developing optimization-based intelligent grid planning tools.
-            
-      - role: Power Systems Intern
-        time: Jun 2025 - Aug 2025
-        company: GE Vernova, Bellevue
-        link: https://www.gevernova.com/
-        details: |
-            - Developing a full AC Optimal Power Flow (AC-OPF) formulation and its convex relaxation for improved computational efficiency.
-            - Implementing a distributed ADMM-based solver to enable scalable OPF solutions.
-
-      - role: Engineering Intern
-        time: Jan 2025 - Present
-        company: North American Electric Reliability Corporation, Atlanta
-        link: https://www.nerc.com/AboutNERC/Pages/default.aspx
-        details: |
-            - Automated and analyzed FNET, GADS/TADS, and Velocity Suite datasets to support extreme weather resiliency studies.
-            - Developed a Plotly-Dash GUI and streamlined the Case Quality Metrics workflow for improved data processing and visualization.
-            
-      - role: Graduate Research Assistant
-        time: Jan 2022 - May 2025
-        company: School of Electrical Engineering and Computer Science, WSU, Pullman
-        link: https://school.eecs.wsu.edu/
-        details: |
-            - Working on developing intelligent algorithms for networked Smart Buildings for grid support.
-            - Developing computationally efficient yet accurate building grey and black box thermal models of residential/commercial buildings.
-            - Developing a co-simulation test bench for simulating a large number of buildings with the distribution system.
-
-      - role: Instructor
-        time: June 2022 - Aug 2022
-        company: Computational Skills for MIRA Program, WSU, Pullman
-        link: https://mira.wsu.edu/
-        details: |
-            - Conducted a six-week course on computer programming with Python for high school transistioners to college.
-            - Developed syllabus, class material, lab material, and maintained a Google Classroom.
-            - Taught students programming concepts from basic to intermediate level in Python.
-            
-      - role: Machine Learning Intern
-        time: May 2023 - Aug 2023
-        company: Research & Development Group, Edo Energy, Spokane
-        link: https://edoenergy.com/
-        details: |
-            - Developed an open-source State Estimation toolbox based on Bayesian Filtering and Smoothing for Building Thermal Models.
-            - Developed Parameter Estimation Algorithms based on Bayesian Inference for Building Thermal Models.
-
-      - role: Tutor
-        time: July 2022 - July 2022
-        company: Bridge Program, College Access \& Transition Programs, WSU, Pullman
-        link: https://provost.wsu.edu/oae/programs/
-        details: |
-            - Conducted a two-week course on introduction to engineering for recent high school graduates.
-            - Helped students understand the differences and similarities in the different engineering domains.
-            - Taught students basic programming skills in Python.
-
-      - role: Graduate Assistant
-        time: Aug 2018 - Dec 2021
-        company: Mechanical & Aerospace Engineering Department, UFL, Gainesville
-        link: https://mae.ufl.edu/
-        details: |
-            - Developed control algorithms based on MPC and RL for home energy resiliency.
-            - Aided student learning for undergraduate Controls and Numerical Methods courses as a teaching assistant for 6 semesters.
-            - Mentored one graduate and two undergraduate students to pursue research in home energy resiliency.
-                  
-      - role: Research Intern
-        time: May 2021 - Aug 2021
-        company: Energy Systems Control and Optimization Group, NREL, Golden
-        link: https://www.nrel.gov/grid/distributed-optimization-control.html
-        details: |
-            - Worked on transient voltage stability of two-bus inverter-based microgrids.
-            - Analyzed the stability of the two-bus system using the Lyapunov method.
-            - Developed a GUI-based application for stability analysis and visualization for the two-bus system.
-    
-      - role: Research Consultant
-        time: June 2018 - July 2018
-        company: Centre of Excellence in Complex and Nonlinear Dynamical Systems (CoE-CNDS), VJTI, Mumbai
-        link: https://vjti.ac.in/coe-cnds/
-        details: |
-            - Performed set up of the self-developed Renewable Energy Forecasting System (SWEEFA-V1.0) at CoE-CNDS.
-            - Trained two graduate students on the self-developed renewable energy forecasting software.
-            - Created a road map for the research and development of the SWEEFA system.
-            
-      - role: Consultant
-        time: Dec 2017 - May 2018
-        company: Technology & Digital Innovation Group, Mytrah Energy, Hyderabad
-        link: http://www.mytrah.com/
-        details: |
-            - Worked on the Implementation of a Real-Time Renewable Forecasting System.
-            - Developed tools for Solar and Wind Power Plant Performance Analysis.
-            - Trained and led a team of three in Data Analytics and associated tools.
-
-      - role: Assistant Professor
-        time: Jan 2017 - June 2017
-        company: Electrical Engineering Department, SPCE, Mumbai
-        link: https://www.spce.ac.in/electrical.php
-        details: |
-            - Taught a graduate course on the Application of Power Electronics in Renewable Energy Systems.
-            - Guided and mentored three graduate students in their seminar mini-projects.
-            - Tutored graduate students in MATLAB Programming and Simulink Simulations.      - 
-
-      - role: Jr. Project Fellow
-        time: Aug 2016 - Jan 2017
-        company: Gujarat Energy & Research Management Institute (GERMI), Gandhinagar
-        link: https://www.germi.org/
-        details: |
-            - Supported the institute's renewable energy training programs by developing program manuals and giving presentations on selected topics.
-            - Worked on the improvement of the Renewable Energy Forecasting System (SWEEFA).
-            - Mentored two graduate students to develop RNN-based short-term forecasting models and empirical analysis of ARIMA models for renewable energy generation.
-
-      - role: Research Intern
-        time: Aug 2015 - June 2016
-        company: Gujarat Energy & Research Management Institute (GERMI), Gandhinagar
-        link: https://www.germi.org/
-        details: |
-            - Worked on my M-Tech research thesis in the field of Solar and Wind Energy Forecasting.
-            - Conceptualized and developed an end-to-end renewable energy estimation and forecasting software in MATLAB with a GUI interface called Solar \& Wind Energy Estimation and Forecasting Application (SWEEFA).
-            - Mentored two graduate students to develop components of SWEEFA.
-
-            
+  title: Experiences
+  info:
+  - role: Lead Power Systems Developer
+    time: Sep 2025 - Present
+    company: iGridSim, Portland
+    link: https://igridsim.com/
+    details: |
+      - Develop scalable distribution-grid simulation pipelines integrating CIM-based network models, distribution power flow, and graph-based topology validation for large feeder datasets.
+      - Develop machine-learning methods using AMI data for secondary-distribution modeling and optimization-based tools for intelligent distribution-grid analytics and planning.
+  - role: Power Systems Intern
+    time: Jun 2025 - Aug 2025
+    company: GE Vernova, Bellevue
+    link: https://www.gevernova.com/
+    details: |
+      - Developed a full AC Optimal Power Flow formulation and a convex relaxation to improve computational tractability for grid-planning applications.
+      - Implemented a distributed ADMM-based solver for scalable optimal power flow.
+  - role: Graduate Research Assistant
+    time: Jan 2022 - Aug 2025
+    company: School of Electrical Engineering and Computer Science, WSU, Pullman
+    link: https://school.eecs.wsu.edu/
+    details: |
+      - Developed modeling, estimation, simulation, and intelligent-control methods for networked buildings and grid-edge applications.
+      - Developed computationally efficient grey-box, black-box, and scientific-machine-learning thermal models and building-grid simulation/co-simulation workflows for residential and commercial buildings.
+  - role: Engineering Intern
+    time: Jan 2025 - Apr 2025
+    company: North American Electric Reliability Corporation, Atlanta
+    link: https://www.nerc.com/AboutNERC/Pages/default.aspx
+    details: |
+      - Automated and analyzed FNET, GADS/TADS, and Velocity Suite datasets to support extreme-weather resiliency studies.
+      - Developed a Plotly-Dash interface and streamlined the Case Quality Metrics workflow for reliability-data processing, analysis, and visualization.
+  - role: Instructor - Computational Skills for MIRA Summer Bridge Program
+    time: Jun 2024 - Aug 2024
+    company: Washington State University, Pullman
+    link: https://mira.wsu.edu/
+    details: |
+      - Designed and taught a six-week Python programming course for students transitioning from high school to college.
+      - Developed the course syllabus, instructional materials, laboratory exercises, and course-management resources.
+  - role: Machine Learning Intern
+    time: May 2023 - Aug 2023
+    company: Research & Development Group, Edo Energy, Spokane
+    link: https://edoenergy.com/
+    details: |
+      - Developed an open-source state-estimation toolbox based on Bayesian filtering and smoothing for building thermal models.
+      - Developed Bayesian-inference-based parameter-estimation methods for identifying building thermal-model parameters from data.
+  - role: Tutor - Bridge Program, College Access & Transition Programs
+    time: Jul 2022
+    company: Washington State University, Pullman
+    link: https://provost.wsu.edu/oae/programs/
+    details: |
+      - Taught a two-week introduction-to-engineering program for recent high-school graduates.
+      - Introduced foundational Python programming concepts while helping students understand similarities and differences across engineering disciplines.
+  - role: Research Intern
+    time: May 2021 - Aug 2021
+    company: Energy Systems Control and Optimization Group, NREL, Golden
+    link: https://www.nrel.gov/grid/distributed-optimization-control.html
+    details: |
+      - Analyzed transient-voltage stability of a two-bus inverter-based microgrid using Lyapunov-based methods.
+      - Developed a GUI-based application for microgrid stability analysis and visualization.
+  - role: Graduate Assistant
+    time: Aug 2018 - Dec 2021
+    company: Mechanical & Aerospace Engineering Department, UFL, Gainesville
+    link: https://mae.ufl.edu/
+    details: |
+      - Developed model-predictive-control and reinforcement-learning algorithms for home energy resiliency and mentored one graduate and two undergraduate researchers on related work.
+      - Supported undergraduate Controls and Numerical Methods instruction for six semesters as a teaching assistant.
+  - role: Research Consultant
+    time: Jun 2018 - Jul 2018
+    company: Centre of Excellence in Complex and Nonlinear Dynamical Systems (CoE-CNDS), VJTI, Mumbai
+    link: https://vjti.ac.in/coe-cnds/
+    details: |
+      - Established the SWEEFA-V1.0 renewable-energy forecasting system for research use.
+      - Trained two graduate students on the platform and developed a research-and-development roadmap for its continued advancement.
+  - role: Consultant
+    time: Dec 2017 - May 2018
+    company: Technology & Digital Innovation Group, Mytrah Energy, Hyderabad
+    link: http://www.mytrah.com/
+    details: |
+      - Contributed to implementation of a real-time renewable-energy forecasting system and developed solar- and wind-plant performance-analysis tools.
+      - Trained and led a three-person data-analytics team supporting renewable-energy analytics and forecasting activities.
+  - role: Assistant Professor - Electrical Engineering
+    time: Jan 2017 - Jun 2017
+    company: Sardar Patel College of Engineering, Mumbai
+    link: https://www.spce.ac.in/electrical.php
+    details: |
+      - Taught a graduate course on applications of power electronics in renewable-energy systems and supported MATLAB/Simulink learning.
+      - Guided and mentored three graduate students through seminar mini-projects.
+  - role: Jr. Project Fellow
+    time: Aug 2016 - Jan 2017
+    company: Gujarat Energy Research and Management Institute (GERMI), Gandhinagar
+    link: https://www.germi.org/
+    details: |
+      - Supported renewable-energy training programs and continued development of the SWEEFA renewable-energy forecasting system.
+      - Mentored graduate students developing RNN- and ARIMA-based renewable-energy forecasting models.
+  - role: Research Intern
+    time: Aug 2015 - Jun 2016
+    company: Gujarat Energy Research and Management Institute (GERMI), Gandhinagar
+    link: https://www.germi.org/
+    details: |
+      - Completed MTech thesis research in solar and wind forecasting and conceptualized and developed the MATLAB GUI-based Solar & Wind Energy Estimation and Forecasting Application (SWEEFA).
+      - Mentored two graduate students contributing to development of the forecasting platform.
+  - role: Engineering Intern
+    time: Aug 2013 - Oct 2013
+    company: Crompton & Greaves - Transformer Design Department
+    link: https://www.cgglobal.com/our_business/Power/Transformers-and-Reactors
+    details: |
+      - Developed a spreadsheet-based tool for transformer terminal-connector selection.
+      - Prepared a technical report comparing transformer-winding interleaving and counter-shielding methods for surge protection.
+  - role: Engineering Intern
+    time: Sep 2012 - Oct 2012
+    company: Reliance Infrastructure - Dahanu Thermal Power Plant
+    link: https://www.rinfra.com/
+    details: |
+      - Studied electrostatic-precipitator operation and fault-detection practices and prepared a technical training report.
+      - Digitized aging technical manuals and power/control schematics to improve internal accessibility of plant documentation.
+  - role: Coal Power Plant Trainee
+    time: Jun 2012 - Jul 2012
+    company: Abhijeet MADC Nagpur Energy Pvt. Ltd. - MIHAN Power Plant
+    link: ''
+    details: |
+      - Completed plant-wide technical training covering the operation and function of major coal-fired power-plant systems.
+      - Collaborated with fellow trainee engineers to prepare a comprehensive plant-training report.
 projects:
-    title: Projects
-    intro: >
-      Following is a selected list of projects with associated links, for an exhaustive list download CV from the sidebar.
-    assignments:
-      - title: Intelligent Control of Networked Buildings
-        link: "https://github.com/ninadkgaikwad/IntelligentControlOfNetworkedBuildings"
-        tagline: "The project involves developing and comparing computationally inexpensive black/grey-box developing models (neural network architectures and Bayesian estimation methods) for residential/commercial buildings where data comes from EnergyPlus and other open-source building data repositories like PecanStreet. Then a simulation framework has to be developed to co-simulate these building models at scale with OpenDSS (along with HELICS) to aid the development of both single-building and aggregator-level intelligent controllers which can optimize the energy consumption of buildings for grid support. Currently, we are pursuing model estimation and development of the co-simulation platform."
-        place: WSU, Pullman
-        time: Jan 2022 - Present
-
-      - title: Power Systems Analysis Toolbox (PowerEdu.jl)
-        link: "https://github.com/ninadkgaikwad/PowerEdu"
-        tagline: "Course project for Analysis of Power Systems (EE521). A Julia-based package is being developed to perform Newton-Raphson-based power flow, continuation power flow, power system static state estimation, and basic power system optimization. Currently, power system stability analysis and transient simulation capabilities (EE523) are being implemented."
-        place: WSU, Pullman
-        time: Aug 2022 - Present
-
-      - title: Power System Control Algorithm Vulnerability Analysis using Network Science
-        link: "https://github.com/ninadkgaikwad/22_NetworkScience_Project"
-        tagline: "Course project for Introduction to Network Science (CPTS591). A power system transients simulator with closed-loop control and inter-node communication capabilities was developed in Python in a modular fashion. A comparison was done of the capability of degree centrality, PageRank, and eigenvalue-based analysis for accurately predicting the criticality of the power system nodes about their impact on the performance of a distributed frequency control algorithm."
-        place: WSU, Pullman
-        time: Jan 2022 - Apr 2022
-
-      - title: Home Energy Resiliency
-        link: "https://github.com/ninadkgaikwad/EnergyResiliency_SmartCommunity_MPC_RL"
-        tagline: "Where during grid outage scenario smart houses with PV, Battery storage, EVs and smart loads will be capable of managing their energy based on optimal control and reinforcement learning. MPC and RL-based central controllers for a single house have been developed. Currently work on centralized and distributed architectures based on MPC and RL for energy resiliency of community of houses is being pursued."
-        place: UFL, Gainesville
-        time: Jan 2019 - Present
-
-      - title: GAN and VAE for MNIST
-        link: "https://github.com/ninadkgaikwad/GAN_VAE_Project"
-        tagline: "Course project for Machine Learning (CAP6610). Generative Adversarial Networks and Variational Autoencoder networks were trained on the MNIST dataset to generate handwritten digits. Two types each of the GAN and VAE were trained one with dense layers and the other with CNN layers, the implementation was done using the TensorFlow library in Python."
-        place: UFL, Gainesville
-        time: Aug 2020 - Dec 2020
-
-      - title: Optimal Control Indirect and Direct Method Implementation
-        link: "https://github.com/ninadkgaikwad/OptimalControl_Project"
-        tagline: "Course project for Optimal Control (EML6934). The Linear Tangent Steering Control and Robot Arm Control problems were formulated as optimal control problems and solved numerically using MATLAB. For the indirect method, a Hamiltonian Boundary Value Problem (HBVP) was formulated through optimality conditions arising from the calculus of variations, and for the direct method, Collocation was used by formulating a Nonlinear Program (NLP). The NLP was formulated in MATLAB and solved using IPOPT."
-        place: UFL, Gainesville
-        time: Aug 2019 - Dec 2019
-
-      - title: Design and testing of State Feedback based Set-Point Tracking Controller
-        link: "https://github.com/ninadkgaikwad/LQR_Project"
-        tagline: "Course project for Control Theory (EML5311). System identification of an unknown plant with sensor noise was conducted using the Sine-Sweep technique through simulations in MATLAB. The estimated transfer function was converted to a minimally realized state-space model for designing a Linear Quadratic Regulator (LQR) for set-point tracking using MATLAB."
-        place: UFL, Gainesville
-        time: Jan 2019 - Apr 2019
-
-      - title: ARMA Time Series Modeling for Solar PV Generation Forecasting
-        link: "https://github.com/ninadkgaikwad/ARMA_TimeSeries_Forecasting_Project"
-        tagline: "Course project for Optimal Estimation and Kalman Filtering (EML6352). ARMA models based on Least Squares and Maximum Likelihood Estimation techniques were developed and implemented in MATLAB and compared against the ARMA models of MATLAB’s Econometrics toolbox, for forecasting solar power generation from a real-world dataset. The effect of different ARMA models, amount of training data, and prediction on different timescales was studied."
-        place: UFL, Gainesville
-        time: Aug 2018 - Dec 2018
-
-      - title: Data Fault Detection
-        link: "https://github.com/ninadkgaikwad/DataFault_Detection"
-        tagline: "Worked with Dr. Anupama Kowli in the Electrical Department of IIT-B to develop data fault detection algorithms for real-building data collected using Raspberry-Pi-based sensors deployed in one of the lecture halls. The methods applied were SVM, ANN, Wavelets, PCA, and a hybrid PCA-Wavelet. All the algorithms were developed in MATLAB in a modular manner."
-        place: IIT-B, Mumbai
-        time: Aug 2017 - Oct 2017
-
-      - title: Forecasting of Solar & Wind Energy
-        link: "https://github.com/ninadkgaikwad/SWEEFA_Development"
-        tagline: "Master’s Thesis project, in which an entire software for solar and wind energy estimation and forecasting was created in MATLAB using GUI. The software can generate plant-level energy estimation capability for both wind and solar generation plants. The software also has a weather and generation data preprocessing system. Forecasting using ANN and ARIMA can be done using their respective GUI interfaces. Forecasting using WRF (NWP model) is also automated by developing BASH Shell scripts and running it on a cluster of four RaspberryPi-2 micro-computers."
-        place: SPCE, Mumbai
-        time: Aug 2015 - June 2016
-
-      - title: DTC Control of DFIG
-        link: "https://github.com/ninadkgaikwad/DFIG_Control_Simulations"
-        tagline: "Individual project, in which a research paper on the ANN-based DTC control strategy for the DFIG was studied, a simulation on the same was created in Sim PowerSystems Matlab, and an IEEE-style report was prepared. Gained valuable experience in decoding a research paper and simulation methodology. A seminar on the same was presented before the faculty of the electrical department."
-        place: SPCE, Mumbai
-        time: Jan 2015 - Apr 2015
-
-      - title: Vector Control of DFIG
-        link: "https://github.com/ninadkgaikwad/DFIG_Control_Simulations"
-        tagline: "Individual project, in which a research paper on the vector control strategy for the DFIG was studied, a simulation on the same was created in Sim PowerSystems Matlab, and an IEEE-style report was prepared. Gained valuable experience in decoding a research paper and simulation methodology. A seminar on the same was presented before the faculty of the electrical department."
-        place: SPCE, Mumbai
-        time: Aug 2014 - Dec 2014        
-      
-
+  title: Projects
+  intro: |
+    Selected research and academic projects spanning power and energy systems, intelligent buildings, optimization and control, machine learning, renewable-energy forecasting, and energy resiliency.
+  assignments:
+  - title: Framework for Modeling and Control of Networked Buildings
+    link: https://github.com/ninadkgaikwad/IntelligentControlOfNetworkedBuildings
+    tagline: PhD research integrating control-oriented building thermal models; optimization- and Bayesian-inference-based estimation; black-box and scientific-machine-learning methods; scalable building simulation and data workflows; building-grid co-simulation; and intelligent control for grid-edge applications.
+    place: WSU, Pullman
+    time: Jan 2022 - Present
+  - title: Intelligent Control of Residential Energy Systems / SmartCommunitySim
+    link: https://github.com/ninadkgaikwad/SmartCommunitySim
+    tagline: MS Computer Science research developing a scalable residential-community simulation and benchmarking framework for baseline, rule-based, model-predictive-control, and reinforcement-learning controllers under on-grid and off-grid operation with heterogeneous distributed energy resources. This work extends the home-energy-resiliency research initiated at the University of Florida.
+    place: WSU, Pullman
+    time: Jan 2024 - Present
+  - title: Power Systems Analysis Toolbox (PowerEdu.jl)
+    link: https://github.com/ninadkgaikwad/PowerEdu
+    tagline: Julia-based power-systems analysis package developed from WSU coursework, with capabilities spanning Newton-Raphson power flow, continuation power flow, static state estimation, optimization, and ongoing power-system stability and transient simulation.
+    place: WSU, Pullman
+    time: Aug 2022 - Present
+  - title: Power-System Control Algorithm Vulnerability Analysis using Network Science
+    link: https://github.com/ninadkgaikwad/22_NetworkScience_Project
+    tagline: Developed a modular Python power-system transient simulator with closed-loop control and communication capabilities, and evaluated degree centrality, PageRank, and eigenvalue-based analysis for identifying nodes critical to distributed frequency-control performance.
+    place: WSU, Pullman
+    time: Jan 2022 - Apr 2022
+  - title: Home Energy Resiliency
+    link: https://github.com/ninadkgaikwad/EnergyResiliency_SmartCommunity_MPC_RL
+    tagline: Developed model-predictive-control and reinforcement-learning methods for residential energy resiliency using rooftop PV, battery storage, controllable loads, and related home-energy resources. This research became the foundation for the later WSU MS Computer Science work on intelligent residential energy systems and community-scale simulation and control.
+    place: UFL, Gainesville
+    time: Jan 2019 - Dec 2021
+  - title: GAN and VAE for MNIST
+    link: https://github.com/ninadkgaikwad/GAN_VAE_Project
+    tagline: Implemented dense- and CNN-based Generative Adversarial Networks and Variational Autoencoders in TensorFlow for handwritten-digit generation.
+    place: UFL, Gainesville
+    time: Aug 2020 - Dec 2020
+  - title: 'Optimal Control: Indirect and Direct Numerical Methods'
+    link: https://github.com/ninadkgaikwad/OptimalControl_Project
+    tagline: Implemented indirect Hamiltonian-boundary-value and direct collocation formulations for optimal-control problems in MATLAB, including nonlinear programming solved using IPOPT.
+    place: UFL, Gainesville
+    time: Aug 2019 - Dec 2019
+  - title: State-Feedback Set-Point Tracking Control
+    link: https://github.com/ninadkgaikwad/LQR_Project
+    tagline: Performed simulation-based system identification and designed a Linear Quadratic Regulator for set-point tracking using an estimated state-space model.
+    place: UFL, Gainesville
+    time: Jan 2019 - Apr 2019
+  - title: ARMA Time-Series Modeling for Solar PV Forecasting
+    link: https://github.com/ninadkgaikwad/ARMA_TimeSeries_Forecasting_Project
+    tagline: Developed ARMA forecasting models using least-squares and maximum-likelihood estimation and studied model order, training-data volume, and prediction timescale using real solar-generation data.
+    place: UFL, Gainesville
+    time: Aug 2018 - Dec 2018
+  - title: Data Fault Detection
+    link: https://github.com/ninadkgaikwad/DataFault_Detection
+    tagline: Developed data-fault-detection algorithms for real building data collected using Raspberry-Pi-based sensors in collaboration with Dr. Anupama Kowli. Implemented SVM, ANN, wavelet, PCA, and hybrid PCA-wavelet methods in MATLAB using a modular software structure.
+    place: IIT-B, Mumbai
+    time: Aug 2017 - Oct 2017
+  - title: Forecasting of Solar & Wind Energy
+    link: https://github.com/ninadkgaikwad/SWEEFA_Development
+    tagline: MTech thesis project developing the Solar & Wind Energy Estimation and Forecasting Application (SWEEFA), a MATLAB GUI-based platform for plant-level solar and wind energy estimation, weather and generation-data preprocessing, ANN- and ARIMA-based forecasting, and automated WRF forecasting using Bash scripts on a four-node Raspberry Pi 2 cluster.
+    place: SPCE, Mumbai
+    time: Aug 2015 - Jun 2016
+  - title: DTC Control of DFIG
+    link: https://github.com/ninadkgaikwad/DFIG_Control_Simulations
+    tagline: Studied an ANN-based direct-torque-control strategy for a doubly fed induction generator, reproduced the method in SimPowerSystems/MATLAB, prepared an IEEE-style technical report, and presented the work as a departmental seminar.
+    place: SPCE, Mumbai
+    time: Jan 2015 - Apr 2015
+  - title: Vector Control of DFIG
+    link: https://github.com/ninadkgaikwad/DFIG_Control_Simulations
+    tagline: Studied a vector-control strategy for a doubly fed induction generator, reproduced the method in SimPowerSystems/MATLAB, prepared an IEEE-style technical report, and presented the work as a departmental seminar.
+    place: SPCE, Mumbai
+    time: Aug 2014 - Dec 2014
+  - title: Reactive Power Capability of Distributed Energy Systems
+    link: https://github.com/ninadkgaikwad
+    tagline: 'Team project evaluating reactive-power support from DFIGs, solar inverters, and diesel generators. Led the DFIG component, interpreted IEEE research literature, and contributed to the technical report and presentation. Grade: A.'
+    place: UOW, Wollongong
+    time: Feb 2014 - Jun 2014
+  - title: Application of Vacuum Tubes in Sound Engineering and High-Frequency Amplification
+    link: https://github.com/ninadkgaikwad
+    tagline: 'Final-year team project examining contemporary vacuum-tube devices and their potential applications in sound engineering and high-frequency amplification, with emphasis on technical-literature analysis, engineering reporting, and collaborative project work. Grade: A.'
+    place: VJTI, Mumbai
+    time: Aug 2011 - Jun 2012
 publications:
-    title: Publications 
-    intro: |
-      Following is a selected list of publications including journal papers, conference papers, and conference posters with associated links, for an exhaustive list download CV from the sidebar.
-    papers:
+  title: Publications
+  intro: |
+    Peer-reviewed conference papers, accepted papers, preprints, and conference posters with associated links.
+  papers:
 
-      - title: Increasing Energy Resiliency to Hurricanes with Battery and Rooftop Solar Through Intelligent Control
-        link: "https://arxiv.org/abs/2102.04406"
-        authors: Ninad Gaikwad, Naren Raman Srivaths, Prabir Barooah
-        type: Journal Paper
-        conference: "Feb 2021, arXiv preprint arXiv:2102.04406"
-
-      - title: Smart Residential Community Simulator for Developing and Benchmarking Energy Management Systems
-        link: ""
-        authors: Ninad Gaikwad, Anamika Dubey
-        type: Conference Paper
-        conference: "Sept 2025, Oral Presentation at IEEE SmartGridComm 2025, Toronto, ON, Canada"  
-
-      - title: Comparing Building Thermal Dynamics Models and Estimation Methods for Grid-Edge Applications
-        link: ""
-        authors: Ninad Gaikwad, Kunal Shankar, Anamika Dubey, Alan Love, Olvar Bergland
-        type: Conference Paper
-        conference: "July 2025, Oral Presentation at IEEE PESGM 2025, Austin, TX, USA"
-
-      - title: An Open-Source Simulation and Data Management Tool for EnergyPlus Building Models
-        link: ""
-        authors: Ninad Gaikwad, Kasey Dettlaff, Athul Jose P, Anamika Dubey
-        type: Conference Paper
-        conference: "July 2025, Oral Presentation at IEEE PESGM 2025, Austin, TX, USA"
-
-      - title: Duck Curve Mitigation Through Optimal Orientation of Utility-Scale Solar Photovoltaics
-        link: "https://ieeexplore.ieee.org/document/11045039"
-        authors: Liadi Akande, Ninad Gaikwad, Shishir Lamichhane, Noel Schulz
-        type: Conference Paper
-        conference: "Apr 2025, Oral Presentation at IEEE KPEC 2025, Manhattan, KS, USA"
-    
-      - title: Model Predictive Control based Energy Management System for Home Energy Resiliency
-        link: "https://ieeexplore.ieee.org/document/10741744"
-        authors: Ninad Gaikwad, Shishir Lamichhane, Anamika Dubey
-        type: Conference Paper
-        conference: "Nov 2024, Oral Presentation at NAPS-2024, El Paso, USA"      
-
-      - title: Reinforcement Learning-Based Home Energy Management System for Resiliency
-        link: "https://ieeexplore.ieee.org/document/9483162"
-        authors: Naren Raman Srivaths, Ninad Gaikwad, Prabir Barooah, Sean Meyn
-        type: Conference Paper
-        conference: "May 2021, Oral Presentation at ACC-2021, IEEE Conference, New Orleans, USA"
-
-      - title: Smart Home Energy Management System for Power System Resiliency
-        link: "https://ieeexplore.ieee.org/document/9206361"
-        authors: Ninad Gaikwad, Naren Raman Srivaths, Prabir Barooah
-        type: Conference Paper
-        conference: "Aug 2020, Oral Presentation at CCTA-2020, IEEE Conference, Vancouver, Canada"
-
-      - title: On The Development of Solar & Wind Energy Forecasting
-        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vs7Oqv8AAAAJ&citation_for_view=vs7Oqv8AAAAJ:9yKSN-GCB0IC"
-        authors: Ninad Gaikwad, Sagarkumar Agravat
-        type: Conference Paper
-        conference: "Mar 2017, Oral Presentation at INDIACom-2017, IEEE Conference, Delhi, India"
-
-      - title: Photovoltaic Grid Connected Plant Energy Estimation Application in MATLAB
-        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vs7Oqv8AAAAJ&citation_for_view=vs7Oqv8AAAAJ:2osOgNQ5qMEC"
-        authors: Ninad Gaikwad, Sagarkumar Agravat
-        type: Conference Paper
-        conference: "Oct 2016, Oral Presentation at PVSEC-26, Singapore"
-
-      - title: From Basic ANN to Scientific ML-Based Building Thermal Models For Grid-Edge Applications
-        link: "https://doi.org/10.13140/RG.2.2.21646.37449"
-        authors: Ninad Gaikwad, Sajjad Uddin Mahmud, Malak Parmar, Anamika Dubey
-        type: Conference Poster
-        conference: "Aug 2024, Poster Presentation at Advanced Grid Institute Day 2024 (WSU and PNNL)"
-        
-      - title: Enhancing Building Thermal Models - From Basic Greybox to SciML-Driven Digital Twins
-        link: "https://doi.org/10.13140/RG.2.2.35068.14720"
-        authors: Kunal Shankar, Ninad Gaikwad, Anamika Dubey
-        type: Conference Poster
-        conference: "Aug 2024, Poster Presentation at Advanced Grid Institute Day 2024 (WSU and PNNL)"
-        
-      - title: Building Energy Models using Generative Learning for Grid-Edge Applications
-        link: "https://doi.org/10.13140/RG.2.2.26679.53927"
-        authors: Kasey Dettlaff, Ninad Gaikwad, Anamika Dubey
-        type: Conference Poster
-        conference: "Aug 2024, Poster Presentation at Advanced Grid Institute Day 2024 (WSU and PNNL)"
-        
-      - title: ANN Based Thermal Modeling of Buildings
-        link: "https://doi.org/10.13140/RG.2.2.25001.81766"
-        authors: Ninad Gaikwad, Sajjad Uddin Mahmud, Anamika Dubey
-        type: Conference Poster
-        conference: "July 2024, Poster Presentation at IEEE Power and Energy Society General Meeting (PESGM) 2024"
-        
-      - title: Comparison of Bayesian Filters and Smoothers for Joint State-Parameter Estimation of Building Thermal Dynamics Model
-        link: "https://doi.org/10.13140/RG.2.2.14935.48804"
-        authors: Kunal Shankar, Ninad Gaikwad, Anamika Dubey
-        type: Conference Poster
-        conference: "July 2024, Poster Presentation at IEEE Power and Energy Society General Meeting (PESGM) 2024"
-        
-      - title: An Opensource GUI-Based Application for EnergyPlus Data Analysis
-        link: "https://doi.org/10.13140/RG.2.2.31712.70401"
-        authors: Athul P Jose, Kasey Dettlaff, Ninad Gaikwad, Anamika Dubey
-        type: Conference Poster
-        conference: "July 2024, Poster Presentation at IEEE Power and Energy Society General Meeting (PESGM) 2024"
-        
-      - title: Smart Residential Community Simulator
-        link: "https://doi.org/10.13140/RG.2.2.35458.29127"
-        authors: Ninad Gaikwad, Shishir Lamichhane, Anamika Dubey
-        type: Conference Poster
-        conference: "Apr 2024, Poster Presentation at Power and Energy Conference at Illinois 2024"
-
-      - title: Development of Solar & Wind Energy Forecasting Application
-        link: "https://www.researchgate.net/publication/314706171_Solar_Wind_Energy_Estimation_and_Forecasting_Application"
-        authors: Ninad Gaikwad, Sagarkumar Agravat
-        type: Conference Poster
-        conference: "Feb 2017, Poster Presentation at XXXI Gujarat Science Congress 2017, Gandhinagar, Gujarat, India"
-
-      - title: Photovoltaic Module PV-IV Curve Generator with Shading Analysis in MATLAB
-        link: "https://www.researchgate.net/publication/314706487_Photovoltaic_Module_PV-IV_Curve_Generator_with_Shading_Analysis_in_MATLAB"
-        authors: Ninad Gaikwad, Shantanu Vasihnav, Sagarkumar Agravat
-        type: Conference Poster
-        conference: "Oct 2016, Poster Presentation at PVSEC-26, Singapore"
-
+  - title: 'Building Thermal Models using Real-World Data: Seasonal Transferability and Setpoint Sensitivity'
+    link: ''
+    authors: Kunal Shankar, Ninad Gaikwad, Anamika Dubey
+    type: Accepted Conference Paper
+    conference: Oct 2026, Accepted paper, IEEE IAS 2026, Vancouver, BC, Canada
+  - title: 'Learning to Optimize: Gaussian Process Surrogates for Battery Energy Storage Coordination'
+    link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vs7Oqv8AAAAJ&citation_for_view=vs7Oqv8AAAAJ:LkGwnXOMwfcC
+    authors: D Glover, A Parajuli, N Gaikwad, A Jha, A Dubey
+    type: Conference Paper
+    conference: Jul 2026, Oral presentation, IEEE Power and Energy Society General Meeting 2026, San Francisco, CA, USA
+  - title: 'House Thermal Model Estimation: Robustness Across Seasons and Setpoints'
+    link: https://ieeexplore.ieee.org/document/11272267
+    authors: Kunal Shankar, Ninad Gaikwad, Anamika Dubey
+    type: Conference Paper
+    conference: Oct 2025, Oral presentation, 57th North American Power Symposium (NAPS 2025), Hartford, CT, USA
+  - title: Smart Residential Community Simulator for Developing and Benchmarking Energy Management Systems
+    link: https://ieeexplore.ieee.org/document/11204619
+    authors: Ninad Gaikwad, Anamika Dubey
+    type: Conference Paper
+    conference: Sep 2025, Oral presentation, IEEE SmartGridComm 2025, Toronto, ON, Canada
+  - title: Comparing Building Thermal Dynamics Models and Estimation Methods for Grid-Edge Applications
+    link: https://ieeexplore.ieee.org/document/11225513
+    authors: Ninad Gaikwad, Kunal Shankar, Anamika Dubey, Alan Love, Olvar Bergland
+    type: Conference Paper
+    conference: Jul 2025, Oral presentation, IEEE PES General Meeting 2025, Austin, TX, USA
+  - title: An Open-Source Simulation and Data Management Tool for EnergyPlus Building Models
+    link: https://ieeexplore.ieee.org/document/11225378
+    authors: Ninad Gaikwad, Kasey Dettlaff, Athul Jose P, Anamika Dubey
+    type: Conference Paper
+    conference: Jul 2025, Oral presentation, IEEE PES General Meeting 2025, Austin, TX, USA
+  - title: Duck Curve Mitigation Through Optimal Orientation of Utility-Scale Solar Photovoltaics
+    link: https://ieeexplore.ieee.org/document/11045039
+    authors: Liadi Akande, Ninad Gaikwad, Shishir Lamichhane, Noel Schulz
+    type: Conference Paper
+    conference: Apr 2025, Oral presentation, IEEE KPEC 2025, Manhattan, KS, USA
+  - title: Model Predictive Control based Energy Management System for Home Energy Resiliency
+    link: https://ieeexplore.ieee.org/document/10741744
+    authors: Ninad Gaikwad, Shishir Lamichhane, Anamika Dubey
+    type: Conference Paper
+    conference: Nov 2024, Oral presentation, 56th North American Power Symposium (NAPS 2024), El Paso, USA
+  - title: Reinforcement Learning-Based Home Energy Management System for Resiliency
+    link: https://ieeexplore.ieee.org/document/9483162
+    authors: Naren Raman Srivaths, Ninad Gaikwad, Prabir Barooah, Sean Meyn
+    type: Conference Paper
+    conference: May 2021, Oral presentation, American Control Conference (ACC 2021), New Orleans, USA
+  - title: Smart Home Energy Management System for Power System Resiliency
+    link: https://ieeexplore.ieee.org/document/9206361
+    authors: Ninad Gaikwad, Naren Raman Srivaths, Prabir Barooah
+    type: Conference Paper
+    conference: Aug 2020, Oral presentation, IEEE Conference on Control Technology and Applications (CCTA 2020), Vancouver, Canada
+  - title: On The Development of Solar & Wind Energy Forecasting Application Using ARIMA, ANN And WRF in MATLAB
+    link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vs7Oqv8AAAAJ&citation_for_view=vs7Oqv8AAAAJ:9yKSN-GCB0IC
+    authors: Ninad Gaikwad, Sagarkumar Agravat
+    type: Conference Paper
+    conference: Mar 2017, Oral presentation, INDIACom 2017 IEEE Conference, Delhi, India
+  - title: Photovoltaic Grid Connected Plant Energy Estimation Application in MATLAB
+    link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vs7Oqv8AAAAJ&citation_for_view=vs7Oqv8AAAAJ:2osOgNQ5qMEC
+    authors: Ninad Gaikwad, Sagarkumar Agravat
+    type: Conference Paper
+    conference: Oct 2016, Oral presentation, PVSEC-26, Singapore
+  - title: Increasing Energy Resiliency to Hurricanes with Battery and Rooftop Solar Through Intelligent Control
+    link: https://arxiv.org/abs/2102.04406
+    authors: Ninad Gaikwad, Naren Raman Srivaths, Prabir Barooah
+    type: Preprint
+    conference: Feb 2021, arXiv preprint arXiv:2102.04406
+  - title: From Basic ANN to Scientific ML-Based Building Thermal Models For Grid-Edge Applications
+    link: https://doi.org/10.13140/RG.2.2.21646.37449
+    authors: Ninad Gaikwad, Sajjad Uddin Mahmud, Malak Parmar, Anamika Dubey
+    type: Conference Poster
+    conference: Aug 2024, Advanced Grid Institute Day 2024, Tri-Cities, USA
+  - title: 'Enhancing Building Thermal Models: From Basic Greybox to SciML-Driven Digital Twins'
+    link: https://doi.org/10.13140/RG.2.2.35068.14720
+    authors: Kunal Shankar, Ninad Gaikwad, Anamika Dubey
+    type: Conference Poster
+    conference: Aug 2024, Advanced Grid Institute Day 2024, Tri-Cities, USA
+  - title: Building Energy Models using Generative Learning for Grid-Edge Applications
+    link: https://doi.org/10.13140/RG.2.2.26679.53927
+    authors: Kasey Dettlaff, Ninad Gaikwad, Anamika Dubey
+    type: Conference Poster
+    conference: Aug 2024, Advanced Grid Institute Day 2024, Tri-Cities, USA
+  - title: ANN Based Thermal Modeling of Buildings
+    link: https://doi.org/10.13140/RG.2.2.25001.81766
+    authors: Ninad Gaikwad, Sajjad Uddin Mahmud, Anamika Dubey
+    type: Conference Poster
+    conference: Jul 2024, IEEE PES General Meeting 2024, Seattle, USA
+  - title: Comparison of Bayesian Filters-Smoothers for Joint State-Parameter Estimation of Building Thermal Model
+    link: https://doi.org/10.13140/RG.2.2.14935.48804
+    authors: Kunal Shankar, Ninad Gaikwad, Anamika Dubey
+    type: Conference Poster
+    conference: Jul 2024, IEEE PES General Meeting 2024, Seattle, USA
+  - title: An Opensource GUI-Based Application for EnergyPlus Data Analysis
+    link: https://doi.org/10.13140/RG.2.2.31712.70401
+    authors: Athul P Jose, Kasey Dettlaff, Ninad Gaikwad, Anamika Dubey
+    type: Conference Poster
+    conference: Jul 2024, IEEE PES General Meeting 2024, Seattle, USA
+  - title: Smart Residential Community Simulator
+    link: https://doi.org/10.13140/RG.2.2.35458.29127
+    authors: Ninad Gaikwad, Shishir Lamichhane, Anamika Dubey
+    type: Conference Poster
+    conference: Apr 2024, Power and Energy Conference at Illinois 2024, Urbana-Champaign, USA
+  - title: Development of Solar & Wind Energy Forecasting Application
+    link: https://www.researchgate.net/publication/314706171_Solar_Wind_Energy_Estimation_and_Forecasting_Application
+    authors: Ninad Gaikwad, Sagarkumar Agravat
+    type: Conference Poster
+    conference: Feb 2017, XXXI Gujarat Science Congress 2017, Gandhinagar, Gujarat, India
+  - title: Photovoltaic Module PV-IV Curve Generator with Shading Analysis in MATLAB
+    link: https://www.researchgate.net/publication/314706487_Photovoltaic_Module_PV-IV_Curve_Generator_with_Shading_Analysis_in_MATLAB
+    authors: Ninad Gaikwad, Shantanu Vasihnav, Sagarkumar Agravat
+    type: Conference Poster
+    conference: Oct 2016, PVSEC-26, Singapore
 certifications:
-      title: Certifications
-      list:
-        - name: Post Graduate Diploma in Embedded Systems
-          start: Sept 2015
-          end: Dec 2015
-          organization: Prolific Systems & Technologies
-          credentialid: 
-          credentialurl: www.prolifictraining.com/
-          credentialname: Prolific
-          details: |
-            - Microcontroller (8051, ARM, Pic) Programming
-            - Embedded Linux
-            
-        - name: Post Graduate Diploma in Industrial Automation
-          start: Mar 2013
-          end: June 2013
-          organization: Prolific Systems & Technologies
-          credentialid: 
-          credentialurl: www.prolifictraining.com/
-          credentialname: Prolific
-          details: |
-            - Programmable Logic Controllers
-            - SCADA Software
-            - Variable Speed Drives
-
-
-
+  title: Certifications
+  list:
+  - name: Post Graduate Diploma in Embedded Systems
+    start: Sept 2015
+    end: Dec 2015
+    organization: Prolific Systems & Technologies
+    credentialid: ''
+    credentialurl: www.prolifictraining.com/
+    credentialname: Prolific
+    details: |
+      - Microcontroller programming (8051, ARM, PIC)
+      - Embedded Linux development
+  - name: Post Graduate Diploma in Industrial Automation
+    start: Mar 2013
+    end: Jun 2013
+    organization: Prolific Systems & Technologies
+    credentialid: ''
+    credentialurl: www.prolifictraining.com/
+    credentialname: Prolific
+    details: |
+      - Programmable Logic Controllers (PLCs)
+      - SCADA systems
+      - Variable-speed drives
 footer: >
-    Ninad Kiran Gaikwad - Online CV
+  Ninad Kiran Gaikwad - Online CV
